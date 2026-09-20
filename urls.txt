@@ -1,0 +1,24 @@
+[
+  {
+    "CATEGORIA": "GENERAL",
+    "TMDB_ID": 161707,
+    "ID_VIDEO": null,
+    "PLATAFORMA": "ok.ru",
+    "TITULO": "Doraemon: Nobita and the Animal Planet",
+    "FECHA": "1990-03-10",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/mB1nulptGzyJJFKOfkDXenCUHP5.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/brKa6PMfnSyvdcDRPgLILYjNXRQ.jpg",
+    "GENERO": "Fantasy, Animation, Adventure, Family, Science Fiction, Comedy",
+    "RATING": 6.721,
+    "DURACION": 100,
+    "FRASE_PROMOCIONAL": "",
+    "SINOPSIS": "Nobita and his friends get transported to an animal planet after a mysterious pink fog appears inside his house. They work together with the natives to find the origin of the fog.",
+    "ACTORES": "  • Nobuyo Oyama (Doraemon (voice))\n  • Noriko Ohara (Nobita (voice))\n  • Michiko Nomura (Shizuka (voice))\n  • Kaneta Kimotsuki (Suneo (voice))\n  • Kazuya Tatekabe (Gian (voice))",
+    "DIRECTOR": "Tsutomu Shibayama",
+    "TRAILER": "https://youtube.com/watch?v=Pp0l54EQlq0",
+    "URLS": [
+      "https://ok.ru/video/3790631078414"
+    ],
+    "METODO": "MANUAL"
+  }
+]
