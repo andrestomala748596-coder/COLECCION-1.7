@@ -12940,5 +12940,93 @@
       "https://s11.vimeos.net/hls2/03/00006/keryjncteims_,n,h,.urlset/master.m3u8?t=lBMvYofpXRuJM294oaHg6y7iIlY2cKLcjv8I0dHY-Wc&s=1789903255&e=43200&v=365282599&i=0.3&sp=0&fr=keryjncteims&r=e"
     ],
     "URL_DIRECTA": "https://s11.vimeos.net/hls2/03/00006/keryjncteims_,n,h,.urlset/master.m3u8?t=lBMvYofpXRuJM294oaHg6y7iIlY2cKLcjv8I0dHY-Wc&s=1789903255&e=43200&v=365282599&i=0.3&sp=0&fr=keryjncteims&r=e"
+  },
+  {
+    "CATEGORIA": "2026",
+    "TMDB_ID": 1327819,
+    "ID_VIDEO": null,
+    "PLATAFORMA": "ok.ru",
+    "TITULO": "Hoppers",
+    "FECHA": "2026-03-04",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/u53UYu5XG2hNgWGvs3xGhAVzypl.jpg",
+    "GENERO": "Adventure, Animation, Comedy, Family, Science Fiction",
+    "RATING": 8.148,
+    "DURACION": 104,
+    "FRASE_PROMOCIONAL": "Act natural.",
+    "SINOPSIS": "Scientists have discovered how to 'hop' human consciousness into lifelike robotic animals, allowing people to communicate with animals as animals. Animal lover Mabel seizes an opportunity to use the technology, uncovering mysteries within the animal world beyond anything she could have imagined.",
+    "ACTORES": "  • Piper Curda (Mabel (voice))\n  • Bobby Moynihan (King George (voice))\n  • Jon Hamm (Mayor Jerry Generazzo (voice))\n  • Kathy Najimy (Dr. Sam (voice))\n  • Dave Franco (Insect King (voice))",
+    "DIRECTOR": "Daniel Chong",
+    "TRAILER": "https://youtube.com/watch?v=PypDSyIRRSs",
+    "URLS": [
+      "https://ok.ru/video/15544357030638"
+    ],
+    "METODO": "MANUAL"
+  },
+  {
+    "CATEGORIA": "2026",
+    "TMDB_ID": 1084244,
+    "ID_VIDEO": null,
+    "PLATAFORMA": "ok.ru",
+    "TITULO": "Toy Story 5",
+    "FECHA": "2026-06-17",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/qjTqY5coNiz6sVtPng40IzltsoN.jpg",
+    "GENERO": "Animation, Family, Comedy, Adventure",
+    "RATING": 8.361,
+    "DURACION": 102,
+    "FRASE_PROMOCIONAL": "It's on.",
+    "SINOPSIS": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
+    "ACTORES": "  • Joan Cusack (Jessie (voice))\n  • Tom Hanks (Woody (voice))\n  • Tim Allen (Buzz Lightyear (voice))\n  • Conan O'Brien (Smarty Pants (voice))\n  • Scarlett Spears (Bonnie (voice))",
+    "DIRECTOR": "Andrew Stanton",
+    "TRAILER": "https://youtube.com/watch?v=QftAW9TTmuQ",
+    "URLS": [
+      "https://ok.ru/video/15348597132014"
+    ],
+    "METODO": "MANUAL"
+  },
+  {
+    "CATEGORIA": "2026",
+    "TMDB_ID": 1315772,
+    "ID_VIDEO": null,
+    "PLATAFORMA": "ok.ru",
+    "TITULO": "Minions & Monsters",
+    "FECHA": "2026-06-24",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/4LwvU9SZc8QQzW1X1FAPhNbXnEU.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/kkcwhgSFd81QDlXo8ytrpHPQjhy.jpg",
+    "GENERO": "Adventure, Animation, Comedy, Family, Fantasy",
+    "RATING": 7.546,
+    "DURACION": 90,
+    "FRASE_PROMOCIONAL": "Hollywood has a monster problem.",
+    "SINOPSIS": "This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed monsters onto the world and then banded together to try and save the planet from the mayhem they had just created.",
+    "ACTORES": "  • Pierre Coffin (The Minions (voice))\n  • Trey Parker (Goomi (voice))\n  • Christoph Waltz (Max (voice))\n  • Allison Janney (Olivia (voice))\n  • Jesse Eisenberg (Dort (voice))",
+    "DIRECTOR": "Pierre Coffin",
+    "TRAILER": "https://youtube.com/watch?v=V-O-uBaHk3c",
+    "URLS": [
+      "https://ok.ru/video/15307806280430"
+    ],
+    "METODO": "MANUAL"
+  },
+  {
+    "CATEGORIA": "2026",
+    "TMDB_ID": 1311031,
+    "ID_VIDEO": null,
+    "PLATAFORMA": "ok.ru",
+    "TITULO": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
+    "FECHA": "2025-07-18",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/fWVSwgjpT2D78VUh6X8UBd2rorW.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/1RgPyOhN4DRs225BGTlHJqCudII.jpg",
+    "GENERO": "Animation, Action, Fantasy",
+    "RATING": 8.799,
+    "DURACION": 156,
+    "FRASE_PROMOCIONAL": "It's time to have some fun.",
+    "SINOPSIS": "The Demon Slayer Corps are drawn into the Infinity Castle, where Tanjiro, Nezuko, and the Hashira face terrifying Upper Rank demons in a desperate fight as the final battle against Muzan Kibutsuji begins.",
+    "ACTORES": "  • Natsuki Hanae (Tanjiro Kamado (voice))\n  • Takahiro Sakurai (Giyu Tomioka (voice))\n  • Akira Ishida (Akaza (voice))\n  • Hiro Shimono (Zenitsu Agatsuma (voice))\n  • Yoshimasa Hosoya (Kaigaku (voice))",
+    "DIRECTOR": "Haruo Sotozaki",
+    "TRAILER": "https://youtube.com/watch?v=EpAlHmuA2YM",
+    "URLS": [
+      "https://ok.ru/video/15153776757486"
+    ],
+    "METODO": "MANUAL"
   }
 ]
