@@ -13116,5 +13116,49 @@
       "https://www.tokyvideo.com/es/video/super-mario-bros-la-pelicula-full-espanol-latino"
     ],
     "METODO": "MANUAL"
+  },
+  {
+    "CATEGORIA": "2026",
+    "TMDB_ID": 80321,
+    "ID_VIDEO": null,
+    "PLATAFORMA": "tokyvideo.com",
+    "TITULO": "Madagascar 3: Los Fugitivos",
+    "FECHA": "2012-06-06",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/pKKV7XskZwOkwDzFxqbT2Wj2upv.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/uDR9UjSuykTL8g3N3bh3siZ4n3C.jpg",
+    "GENERO": "Animación, Familia, Comedia, Aventura",
+    "RATING": 6.649,
+    "DURACION": 93,
+    "FRASE_PROMOCIONAL": "Seis años atrás, desaparecieron sin dejar rastro. Este verano finalmente resurgen...",
+    "SINOPSIS": "Alex el león, Marty la cebra, Melman la jirafa y Gloria la hipopótamo están decididos a regresar como sea al Zoológico de Central Park en Nueva York. Tras abandonar África, toman un desvío y emergen, literalmente, en Europa, persiguiendo a los pingüinos y chimpancés que se las han arreglado para hacer saltar la banca de un casino de Monte Carlo. Pronto, los animales son descubiertos por la capitana Chantel DuBois, una testaruda francesa encargada del control de animales, y a la que no le gusta nada que unos animales del zoológico anden sueltos por su ciudad.",
+    "ACTORES": "  • Ben Stiller (Alex (voice))\n  • Chris Rock (Marty (voice))\n  • David Schwimmer (Melman (voice))\n  • Jada Pinkett Smith (Gloria (voice))\n  • Sacha Baron Cohen (Julien (voice))",
+    "DIRECTOR": "Eric Darnell",
+    "TRAILER": "No disponible",
+    "URLS": [
+      "https://www.tokyvideo.com/es/video/gigimadagascar-3-los-fugitivos-2012-latino-3"
+    ],
+    "METODO": "MANUAL"
+  },
+  {
+    "CATEGORIA": "2026",
+    "TMDB_ID": 438695,
+    "ID_VIDEO": null,
+    "PLATAFORMA": null,
+    "TITULO": "Sing 2: ¡Ven y Canta de Nuevo!",
+    "FECHA": "2021-12-01",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/1f7Ah1ZjkaChoo5NkSJRsRKxwVs.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/ztiFxuG0gC6wQ8y7JZFYbCQyN4Y.jpg",
+    "GENERO": "Animación, Comedia, Familia, Música",
+    "RATING": 7.832,
+    "DURACION": 110,
+    "FRASE_PROMOCIONAL": "¿Adónde te llevarán tus sueños?",
+    "SINOPSIS": "Buster Moon y su elenco de animales artistas se preparan para lanzar un deslumbrante espectáculo escénico en la capital mundial del entretenimiento. Solo hay un problema: debe convencer a la estrella de rock más solitaria del mundo de unirse a ellos.",
+    "ACTORES": "  • Matthew McConaughey (Buster Moon (voice))\n  • Reese Witherspoon (Rosita (voice))\n  • Scarlett Johansson (Ash (voice))\n  • Taron Egerton (Johnny (voice))\n  • Bobby Cannavale (Mr. Crystal (voice))",
+    "DIRECTOR": "Garth Jennings",
+    "TRAILER": "No disponible",
+    "URLS": [
+      "http://starlatino.tv:8880/movie/liliana18722/yubQnV5D7bDJ/558407.mkv"
+    ],
+    "METODO": "BUDTV"
   }
 ]
