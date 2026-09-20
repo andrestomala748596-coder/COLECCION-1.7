@@ -1,0 +1,59 @@
+name: Update URLs Directas Multi-Platform
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'urls.txt'
+  schedule:
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+
+    - name: Instalar dependencias
+      run: |
+        pip install --upgrade yt-dlp requests
+
+    - name: Verificar extractor.py
+      run: |
+        if [ ! -f "extractor.py" ]; then
+          echo "❌ extractor.py no encontrado"
+          exit 1
+        fi
+        echo "✅ extractor.py encontrado"
+
+    - name: Ejecutar extractor unificado
+      run: python extractor.py
+      env:
+        PYTHONUNBUFFERED: 1
+
+    - name: Verificar que urls.txt NO fue borrado
+      run: |
+        if [ ! -f "urls.txt" ]; then
+          echo "❌ urls.txt fue borrado - esto NUNCA debe pasar"
+          exit 1
+        fi
+        echo "✅ urls.txt existe y está intacto"
+
+    - name: Commit y push (NUNCA borrar urls.txt)
+      run: |
+        git config user.name "GitHub Actions"
+        git config user.email "actions@github.com"
+        git add peliculas/ category_list.json || true
+        git add urls.txt
+        git diff --staged --quiet || git commit -m "🔄 URLs actualizadas - $(date +'%Y-%m-%d %H:%M:%S')"
+        git push
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
