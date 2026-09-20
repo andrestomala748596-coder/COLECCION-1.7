@@ -13028,5 +13028,93 @@
       "https://ok.ru/video/15153776757486"
     ],
     "METODO": "MANUAL"
+  },
+  {
+    "CATEGORIA": "2026",
+    "TMDB_ID": 324857,
+    "ID_VIDEO": null,
+    "PLATAFORMA": "ok.ru",
+    "TITULO": "Spider-Man: Un nuevo universo",
+    "FECHA": "2018-12-06",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/9l9exwzYsEtSbtuLHJQoNQVQGp7.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/1ntePsIqeklfmrQJqZPncCydsqY.jpg",
+    "GENERO": "Animación, Acción, Aventura, Ciencia ficción",
+    "RATING": 8.4,
+    "DURACION": 117,
+    "FRASE_PROMOCIONAL": "Entra en un universo donde más de uno lleva la máscara.",
+    "SINOPSIS": "En un universo paralelo donde Peter Parker ha muerto, un jóven de secundaria llamado Miles Morales es el nuevo Spider-Man. Sin embargo, cuando el líder mafioso Wilson Fisk (a.k.a Kingpin) construye el \"Super Colisionador\" trae a una versión alternativa de Peter Parker que tratará de enseñarle a Miles como ser un mejor Spider-Man. Pero no será el único Spider Man en entrar a este universo, 4 versiones alternas de Spidey aparecerán y buscarán regresar a su universo antes de que toda la realidad colapse.",
+    "ACTORES": "  • Shameik Moore (Miles Morales (voice))\n  • Jake Johnson (Peter B. Parker (voice))\n  • Hailee Steinfeld (Gwen Stacy (voice))\n  • Mahershala Ali (Uncle Aaron (voice))\n  • Brian Tyree Henry (Jefferson Davis (voice))",
+    "DIRECTOR": "Bob Persichetti",
+    "TRAILER": "https://youtube.com/watch?v=11X12iudxPM",
+    "URLS": [
+      "https://ok.ru/video/15434395880174"
+    ],
+    "METODO": "MANUAL"
+  },
+  {
+    "CATEGORIA": "2026",
+    "TMDB_ID": 803796,
+    "ID_VIDEO": null,
+    "PLATAFORMA": "ok.ru",
+    "TITULO": "Las guerreras k-pop",
+    "FECHA": "2025-06-20",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/6EQMqEmdG5HoGe2zT1WwWUMvVhv.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/w3Bi0wygeFQctn6AqFTwhGNXRwL.jpg",
+    "GENERO": "Fantasía, Música, Comedia, Animación",
+    "RATING": 7.998,
+    "DURACION": 96,
+    "FRASE_PROMOCIONAL": "Cantan. Bailan. Luchan contra demonios.",
+    "SINOPSIS": "Cuando no están llenando estadios, las superestrellas del k‑pop Rumi, Mira y Zoey usan sus superpoderes secretos para proteger a sus fans de amenazas sobrenaturales.",
+    "ACTORES": "  • Arden Cho (Rumi (voice))\n  • May Hong (Mira (voice))\n  • Ji-young Yoo (Zoey (voice))\n  • 안효섭 (Jinu (voice))\n  • 김윤진 (Celine (voice))",
+    "DIRECTOR": "Maggie Kang",
+    "TRAILER": "https://youtube.com/watch?v=61EyTn4ZxYk",
+    "URLS": [
+      "http://ok.ru/video/10286778747479"
+    ],
+    "METODO": "MANUAL"
+  },
+  {
+    "CATEGORIA": "2026",
+    "TMDB_ID": 1185806,
+    "ID_VIDEO": null,
+    "PLATAFORMA": null,
+    "TITULO": "Paw Patrol: La dino película",
+    "FECHA": "2026-07-23",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/fcBc0yfACuTU9oX9cm54IrFJzEW.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/6TSxLmwT7j1ugtKi8NyMmdzWAGj.jpg",
+    "GENERO": "Animación, Aventura, Familia, Fantasía, Comedia",
+    "RATING": 7.9,
+    "DURACION": 88,
+    "FRASE_PROMOCIONAL": "",
+    "SINOPSIS": "Cuando una fuerte tormenta deja a la patrulla canina varada en una isla inexplorada llena de dinosaurios vivos, los cachorros deben unirse a su nuevo aliado, Rex, para detener al alcalde Humdinger antes de que la codicia de este provoque una catastrófica erupción volcánica.",
+    "ACTORES": "  • Carter Young (Marshall (voice))\n  • Mckenna Grace (Skye (voice))\n  • Terry Crews (Alistair Stonewall (voice))\n  • Meredith MacNeill (Harper Cutlass (voice))\n  • Ron Pardo (Mayor Humdinger (voice))",
+    "DIRECTOR": "Cal Brunker",
+    "TRAILER": "No disponible",
+    "URLS": [
+      "https://vids.st/storage/uploads/video146308/Paw-Patrol-La-dino-pel-cula-2026-.mp4"
+    ],
+    "METODO": "BUDTV"
+  },
+  {
+    "CATEGORIA": "2026",
+    "TMDB_ID": 502356,
+    "ID_VIDEO": null,
+    "PLATAFORMA": "tokyvideo.com",
+    "TITULO": "Super Mario Bros. La película",
+    "FECHA": "2023-04-05",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/zNKs1T0VZuJiVuhuL5GSCNkGdxf.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/9n2tJBplPbgR2ca05hS5CKXwP2c.jpg",
+    "GENERO": "Familia, Comedia, Aventura, Fantasía, Animación",
+    "RATING": 7.6,
+    "DURACION": 92,
+    "FRASE_PROMOCIONAL": "No todos los héroes usan capa. Algunos usan manos.",
+    "SINOPSIS": "Mientras trabaja bajo tierra para arreglar una tubería de agua, los plomeros de Brooklyn Mario y su hermano Luigi son transportados por una misteriosa tubería y llegan a un nuevo mundo mágico.",
+    "ACTORES": "  • Chris Pratt (Mario (voice))\n  • Anya Taylor-Joy (Princess Peach (voice))\n  • Charlie Day (Luigi (voice))\n  • Jack Black (Bowser (voice))\n  • Keegan-Michael Key (Toad (voice))",
+    "DIRECTOR": "Michael Jelenic",
+    "TRAILER": "https://youtube.com/watch?v=I8aZahPFQnA",
+    "URLS": [
+      "https://www.tokyvideo.com/es/video/super-mario-bros-la-pelicula-full-espanol-latino"
+    ],
+    "METODO": "MANUAL"
   }
 ]
