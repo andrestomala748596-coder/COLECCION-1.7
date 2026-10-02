@@ -13248,5 +13248,181 @@
       "https://69t.btv.mx/69T/32T/MOVLAT2024/Kung.Panda42024LAT.mp4"
     ],
     "METODO": "BUDTV"
+  },
+  {
+    "CATEGORIA": "TERROR_ANIMADO",
+    "TMDB_ID": 11559,
+    "ID_VIDEO": null,
+    "PLATAFORMA": "ok.ru",
+    "TITULO": "Tideland",
+    "FECHA": "2005-10-13",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/mjCRfmxg7awp5kVIM1lHR0d7S4A.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/w4bRVvptwS5i2GJpvQkiPhlZqF0.jpg",
+    "GENERO": "Fantasía, Drama, Suspense",
+    "RATING": 6.511,
+    "DURACION": 120,
+    "FRASE_PROMOCIONAL": "",
+    "SINOPSIS": "¿Qué ha empujado a Jeliza-Rose a trasladarse desde Los Angeles a una granja tejana? ¿Por qué su padre, ex guitarrista de rockabilly, ya no le habla? ¿Y quién hace todo ese ruido en el ático? Jeliza-Rose huye de su cruel infancia, dejándose arrastrar por su viva imaginación, para configurar así un mundo ficticio en el que las luciérnagas tienen nombre, los hombres de barro despiertan al atardecer, tiburones monstruosos nadan por las vías del tren y cabezas seccionadas de Barbies comparten sus aventuras.",
+    "ACTORES": "  • Jodelle Ferland (Jeliza-Rose / Voices Sateen Lips, Glitter Gal, Mustique and Baby Blonde)\n  • Janet McTeer (Dell)\n  • Brendan Fletcher (Dickens)\n  • Jennifer Tilly (Queen Gunhilda)\n  • Jeff Bridges (Noah)",
+    "DIRECTOR": "Terry Gilliam",
+    "TRAILER": "No disponible",
+    "URLS": [
+      "https://ok.ru/video/15624533641966"
+    ],
+    "METODO": "MANUAL"
+  },
+  {
+    "CATEGORIA": "DISNEY_PIXAR",
+    "TMDB_ID": 177572,
+    "ID_VIDEO": null,
+    "PLATAFORMA": "BUDTV Direct",
+    "TITULO": "Grandes Héroes",
+    "FECHA": "2014-10-24",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/h3EyFrAQQbwccSDOzZvdgUBt1wM.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/4s2d3xdyqotiVNHTlTlJjrr3q0H.jpg",
+    "GENERO": "Aventura, Familia, Animación, Acción, Comedia",
+    "RATING": 7.725,
+    "DURACION": 102,
+    "FRASE_PROMOCIONAL": "Déjalo todo. Salva el mundo.",
+    "SINOPSIS": "Se desarrolla un vínculo especial entre el robot inflable de gran tamaño Baymax y el prodigio Hiro Hamada, quienes se unen a un grupo de amigos para formar una banda de héroes de alta tecnología.",
+    "ACTORES": "  • Scott Adsit (Baymax (voice))\n  • Ryan Potter (Hiro Hamada (voice))\n  • Daniel Henney (Tadashi Hamada (voice))\n  • T.J. Miller (Fred (voice))\n  • Jamie Chung (GoGo Tomago (voice))",
+    "DIRECTOR": "Don Hall",
+    "TRAILER": "No disponible",
+    "URLS": [
+      "https://69t.btv.mx/69T/32T/ENG-MOVIE/PEL/Peliculasa2022/P3L1CUL4S/Big%20Hero%206%20%282014%29.mp4"
+    ],
+    "METODO": "BUDTV"
+  },
+  {
+    "CATEGORIA": "GENERAL",
+    "TMDB_ID": 35,
+    "ID_VIDEO": null,
+    "PLATAFORMA": "videa.hu",
+    "TITULO": "Los Simpson: La película",
+    "FECHA": "2007-07-25",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/d9wHkwF9ttnNKuOoEIStve32jEk.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/8ln5VUVk7gnNGIb2VNgw8nICDVt.jpg",
+    "GENERO": "Animación, Comedia, Familia",
+    "RATING": 7.0,
+    "DURACION": 86,
+    "FRASE_PROMOCIONAL": "",
+    "SINOPSIS": "Homero debe salvar al mundo de una catástrofe que él mismo ha provocado. Todo comienza con Homero, su nueva mascota, un cerdo, y un silo lleno de excrementos que tiene una fuga, una combinación que desencadena un desastre distinto a todo lo que Springfield haya experimentado jamás. Mientras Marge está indignada por la monumental metedura de pata de su patán marido, una turba vengativa cae sobre el hogar de los Simpson...",
+    "ACTORES": "  • Dan Castellaneta (Homer Simpson / Itchy / Barney / Abe Simpson / Stage Manager / Krusty the Clown / Mayor Quimby / Mayor's Aide / Multi-Eyed Squirrel / Panicky Man / Sideshow Mel / Mr. Teeny / EPA Official / Kissing Cop / Bear / Boy on Phone / NSA Worker / Officer / Santa's Little Helper / Squeaky-Voiced Teen (voice))\n  • Julie Kavner (Marge Simpson / Selma Bouvier / Patty Bouvier (voice))\n  • Nancy Cartwright (Bart Simpson / Maggie Simpson / Ralph / Nelson / Todd Flanders / TV Daughter / Woman on Phone (voice))\n  • Yeardley Smith (Lisa Simpson (voice))\n  • Hank Azaria (Professor Frink / Comic Book Guy / Moe / Chief Wiggum / Lou / Carl / Cletus / Bumblebee Man / Male EPA Worker / Dome Depot Announcer / Kissing Cop / Carnival Barker / Counter Man / Apu / Drederick Tatum / Sea Captain / EPA Passenger / Robot / Dr. Nick / Wise Guy (voice))",
+    "DIRECTOR": "David Silverman",
+    "TRAILER": "https://youtube.com/watch?v=-pdCvr2sQw4",
+    "URLS": [
+      "https://videa.hu/videok/film-animacio/los-simpson-la-pelicula-bUUbcm7akJ1hJNf5"
+    ],
+    "METODO": "MANUAL"
+  },
+  {
+    "CATEGORIA": "DISNEY_PIXAR",
+    "TMDB_ID": 241259,
+    "ID_VIDEO": null,
+    "PLATAFORMA": "videa.hu",
+    "TITULO": "Alicia a través del espejo",
+    "FECHA": "2016-05-25",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/enTsjngbsWuf1JB6YoYOOd67GdE.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/A6d09KtZKdVGSg0gzsldjDwwvhD.jpg",
+    "GENERO": "Aventura, Familia, Fantasía",
+    "RATING": 6.568,
+    "DURACION": 113,
+    "FRASE_PROMOCIONAL": "Es hora de un poco de locura.",
+    "SINOPSIS": "Alicia regresa al país de las maravillas para una nueva aventura con una máquina del tiempo, en un intento de salvar al Sombrero Loco.",
+    "ACTORES": "  • Mia Wasikowska (Alice Kingsleigh)\n  • Johnny Depp (Tarrant Hightopp / Mad Hatter)\n  • Anne Hathaway (Mirana / White Queen)\n  • Helena Bonham Carter (Iracebeth / Red Queen)\n  • Sacha Baron Cohen (Time)",
+    "DIRECTOR": "James Bobin",
+    "TRAILER": "No disponible",
+    "URLS": [
+      "https://videa.hu/videok/film-animacio/alicia-a-traves-del-espejo-E7rY5fGWDB37UJhk"
+    ],
+    "METODO": "MANUAL"
+  },
+  {
+    "CATEGORIA": "GENERAL",
+    "TMDB_ID": 46195,
+    "ID_VIDEO": null,
+    "PLATAFORMA": "videa.hu",
+    "TITULO": "Río",
+    "FECHA": "2011-04-03",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/scjaS4XzbGicYLYAVbhmffwZtqq.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/3vxlXdwBKztOJdgiZ2Qwasl9FY4.jpg",
+    "GENERO": "Animación, Aventura, Comedia, Familia",
+    "RATING": 6.771,
+    "DURACION": 96,
+    "FRASE_PROMOCIONAL": "",
+    "SINOPSIS": "Capturado por contrabandistas cuando era apenas una cría, un guacamayo llamado Blu nunca aprendió a volar y vive una vida feliz domesticado en Minnesota con su amiga humana, Linda. Blu se piensa que es el último de su especie, pero cuando escuchan que Jewel, una solitaria hembra, vive en Río de Janeiro, Blu y Linda emprenderán un viaje a su encuentro.",
+    "ACTORES": "  • Jesse Eisenberg (Blu (voice))\n  • Anne Hathaway (Jewel (voice))\n  • Leslie Mann (Linda (voice))\n  • Jane Lynch (Alice / Goose (voice))\n  • will.i.am (Pedro (voice))",
+    "DIRECTOR": "Carlos Saldanha",
+    "TRAILER": "No disponible",
+    "URLS": [
+      "https://videa.hu/videok/film-animacio/rio-1-2011-pQpoOFmX3xaBixHM"
+    ],
+    "METODO": "MANUAL"
+  },
+  {
+    "CATEGORIA": "GENERAL",
+    "TMDB_ID": 172385,
+    "ID_VIDEO": null,
+    "PLATAFORMA": "videa.hu",
+    "TITULO": "Río 2",
+    "FECHA": "2014-03-19",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/xx1k3kCfIs95eAMa1pglXv74cRp.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/eg2jxQ1FFi6ENDfyMIMC5odpcU0.jpg",
+    "GENERO": "Animación, Aventura, Comedia, Familia",
+    "RATING": 6.512,
+    "DURACION": 101,
+    "FRASE_PROMOCIONAL": "",
+    "SINOPSIS": "Es una jungla para Blu, Jewel y sus tres hijos después de que se precipitaron de Río de Janeiro a las selvas del Amazonas. Mientras Blu trata de encajar, se va de punta a punta con el vengativo Nigel, y se encuentra con el más temible adversario de todos: su suegro.",
+    "ACTORES": "  • Jesse Eisenberg (Blu (voice))\n  • Anne Hathaway (Jewel (voice))\n  • will.i.am (Pedro (voice))\n  • Jamie Foxx (Nico (voice))\n  • Leslie Mann (Linda (voice))",
+    "DIRECTOR": "Carlos Saldanha",
+    "TRAILER": "No disponible",
+    "URLS": [
+      "https://videa.hu/videok/film-animacio/rio-2-2014-BMC4RyGOta252Biw"
+    ],
+    "METODO": "MANUAL"
+  },
+  {
+    "CATEGORIA": "GENERAL",
+    "TMDB_ID": 588921,
+    "ID_VIDEO": null,
+    "PLATAFORMA": "BUDTV Direct",
+    "TITULO": "Ainbo: La Guerrera Del Amazonas",
+    "FECHA": "2021-02-09",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/hJzYZ2jC5TqzCALiZZRqmqXXRZx.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/v4NDRjYO3HYj8nt321BEZB65tWl.jpg",
+    "GENERO": "Aventura, Animación, Familia, Fantasía",
+    "RATING": 7.0,
+    "DURACION": 90,
+    "FRASE_PROMOCIONAL": "Un corazón valiente, puede salvar al mundo",
+    "SINOPSIS": "Una niña nació y creció en la selva más profunda del Amazonas, Colonia, que descansa sobre el lomo del Espíritu Materno más poderoso del Amazonas, Turtle Motelo Mama. Un día descubre que su tierra natal está siendo amenazada y se da cuenta de que hay otros humanos en el mundo además de su gente. Mientras lucha por salvar su paraíso contra la codicia y la explotación de los niños, la tala y la minería ilegal, comienza a luchar para revertir esta destrucción y el mal inminente de Yucuruna, la oscuridad que vive en el Amazonas. Guiada por el espíritu de su madre, Ainbo está decidida a salvar su tierra y salvar a su gente antes de que sea demasiado tarde.",
+    "ACTORES": "  • Lola Raie (Ainbo (voice))\n  • Alejandra Gollas (Chuni (voice))\n  • Thom Hoffman (DeWitt (voice))\n  • Bernardo de Paula (Huarinka (voice))\n  • Dino Andrade (Dillo (voice))",
+    "DIRECTOR": "José Zelada",
+    "TRAILER": "No disponible",
+    "URLS": [
+      "https://69t.btv.mx/69T/32T/ENG-MOVIE/PEL/Peliculasa2022/P3L1CUL4S/Ainbo%20Spirit%20of%20the%20Amazon%20%282021%29.mp4"
+    ],
+    "METODO": "BUDTV"
+  },
+  {
+    "CATEGORIA": "GENERAL",
+    "TMDB_ID": 560057,
+    "ID_VIDEO": null,
+    "PLATAFORMA": "videa.hu",
+    "TITULO": "Monstruo del mar",
+    "FECHA": "2022-06-24",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/qmmFYWuy4dcLmmIIEzUuF4fi7rN.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/wUwizGzbTk5CTiKBnE4Pq1MONwD.jpg",
+    "GENERO": "Animación, Aventura, Acción, Familia, Fantasía",
+    "RATING": 7.329,
+    "DURACION": 115,
+    "FRASE_PROMOCIONAL": "Golpea alta mar.",
+    "SINOPSIS": "Una chica que viaja de polizona en el barco de un legendario cazador de monstruos inicia un viaje épico por mares inexplorados que hará historia.",
+    "ACTORES": "  • Karl Urban (Jacob Holland (voice))\n  • Zaris-Angel Hator (Maisie Brumble (voice))\n  • Jared Harris (Captain Crow (voice))\n  • Marianne Jean-Baptiste (Sarah Sharpe (voice))\n  • Benjamin Plessala (Child 1 (voice))",
+    "DIRECTOR": "Chris Williams",
+    "TRAILER": "https://youtube.com/watch?v=gGRptgjtAkY",
+    "URLS": [
+      "https://videa.hu/videok/film-animacio/monstruo-marino-V74hh3rrDQAp8S3D"
+    ],
+    "METODO": "MANUAL"
   }
 ]
