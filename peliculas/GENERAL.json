@@ -21,9 +21,9 @@
     ],
     "METODO": "MANUAL",
     "URLS_DIRECTAS": [
-      "https://vd377.okcdn.ru/?expires=1791028096507&srcIp=172.178.119.21&pr=10&srcAg=CHROME&ms=176.112.172.82&type=0&sig=JocoF3EMnvA&ct=0&urls=185.226.55.21&clientType=0&zs=43&id=8740699441792"
+      "https://ok6-12.vkuser.net/?expires=1791048097943&srcIp=172.215.209.241&pr=10&srcAg=CHROME&ms=95.142.206.139&type=0&sig=Ci2c1F-4XA0&ct=0&urls=176.112.172.82%3B185.226.55.21&clientType=0&zs=43&id=8740699441792"
     ],
-    "URL_DIRECTA": "https://vd377.okcdn.ru/?expires=1791028096507&srcIp=172.178.119.21&pr=10&srcAg=CHROME&ms=176.112.172.82&type=0&sig=JocoF3EMnvA&ct=0&urls=185.226.55.21&clientType=0&zs=43&id=8740699441792"
+    "URL_DIRECTA": "https://ok6-12.vkuser.net/?expires=1791048097943&srcIp=172.215.209.241&pr=10&srcAg=CHROME&ms=95.142.206.139&type=0&sig=Ci2c1F-4XA0&ct=0&urls=176.112.172.82%3B185.226.55.21&clientType=0&zs=43&id=8740699441792"
   },
   {
     "CATEGORIA": "GENERAL",
@@ -46,10 +46,8 @@
       "https://vimeos.net/embed-woptqizvlzxi.html"
     ],
     "METODO": "AUTOMATICO",
-    "URLS_DIRECTAS": [
-      "https://s14.vimeos.net/hls2/02/00000/yx1a37tzkqrr_,n,h,.urlset/master.m3u8?t=efRfitv7nWBpkoFX2CzEpHxSzH0asmrnJ4Jv7dB5Z_M&s=1790941701&e=43200&v=375281500&i=0.3&sp=0&r=e"
-    ],
-    "URL_DIRECTA": "https://s14.vimeos.net/hls2/02/00000/yx1a37tzkqrr_,n,h,.urlset/master.m3u8?t=efRfitv7nWBpkoFX2CzEpHxSzH0asmrnJ4Jv7dB5Z_M&s=1790941701&e=43200&v=375281500&i=0.3&sp=0&r=e"
+    "URLS_DIRECTAS": [],
+    "URL_DIRECTA": ""
   },
   {
     "CATEGORIA": "GENERAL",
@@ -70,9 +68,9 @@
     "URLS_OKRU": [
       "https://ok.ru/video/6895676557990"
     ],
-    "URL_DIRECTA": "https://vd305.okcdn.ru/?expires=1791028378156&srcIp=172.178.119.21&pr=10&srcAg=CHROME&ms=185.180.203.61&type=3&sig=SUv1Vc2gn9o&ct=0&urls=185.226.55.62&clientType=0&zs=43&id=5471409605286",
+    "URL_DIRECTA": "https://vd305.okcdn.ru/?expires=1791048450977&srcIp=172.215.209.241&pr=10&srcAg=CHROME&ms=185.180.203.61&type=3&sig=0jfyDhnnXqs&ct=0&urls=176.112.172.121&clientType=0&zs=43&id=5471409605286",
     "URLS_DIRECTAS": [
-      "https://vd305.okcdn.ru/?expires=1791028378156&srcIp=172.178.119.21&pr=10&srcAg=CHROME&ms=185.180.203.61&type=3&sig=SUv1Vc2gn9o&ct=0&urls=185.226.55.62&clientType=0&zs=43&id=5471409605286"
+      "https://vd305.okcdn.ru/?expires=1791048450977&srcIp=172.215.209.241&pr=10&srcAg=CHROME&ms=185.180.203.61&type=3&sig=0jfyDhnnXqs&ct=0&urls=176.112.172.121&clientType=0&zs=43&id=5471409605286"
     ]
   },
   {
@@ -94,9 +92,9 @@
     "URLS_OKRU": [
       "https://ok.ru/video/6911120640678"
     ],
-    "URL_DIRECTA": "https://vd723.okcdn.ru/?expires=1791028381113&srcIp=172.178.119.21&pr=10&srcAg=CHROME&ms=95.163.35.0&type=3&sig=sNTbCo7FhBU&ct=0&urls=185.226.55.101&clientType=0&zs=43&id=5493666941606",
+    "URL_DIRECTA": "https://vd723.okcdn.ru/?expires=1791048454809&srcIp=172.215.209.241&pr=10&srcAg=CHROME&ms=95.163.35.0&type=3&sig=KvUrOP8SnGY&ct=0&urls=185.226.55.101&clientType=0&zs=43&id=5493666941606",
     "URLS_DIRECTAS": [
-      "https://vd723.okcdn.ru/?expires=1791028381113&srcIp=172.178.119.21&pr=10&srcAg=CHROME&ms=95.163.35.0&type=3&sig=sNTbCo7FhBU&ct=0&urls=185.226.55.101&clientType=0&zs=43&id=5493666941606"
+      "https://vd723.okcdn.ru/?expires=1791048454809&srcIp=172.215.209.241&pr=10&srcAg=CHROME&ms=95.163.35.0&type=3&sig=KvUrOP8SnGY&ct=0&urls=185.226.55.101&clientType=0&zs=43&id=5493666941606"
     ]
   },
   {
@@ -118,9 +116,9 @@
     "URLS_OKRU": [
       "https://ok.ru/video/4027916028582"
     ],
-    "URL_DIRECTA": "https://vd552.okcdn.ru/?expires=1791028383794&srcIp=172.178.119.21&pr=10&srcAg=CHROME&ms=185.226.55.62&type=3&sig=EyHlTtXd_7s&ct=0&urls=95.163.35.31&clientType=0&zs=43&id=2570171976358",
+    "URL_DIRECTA": "https://vd552.okcdn.ru/?expires=1791048457612&srcIp=172.215.209.241&pr=10&srcAg=CHROME&ms=185.226.55.62&type=3&sig=zFpmGj3S2HI&ct=0&urls=95.163.35.31&clientType=0&zs=43&id=2570171976358",
     "URLS_DIRECTAS": [
-      "https://vd552.okcdn.ru/?expires=1791028383794&srcIp=172.178.119.21&pr=10&srcAg=CHROME&ms=185.226.55.62&type=3&sig=EyHlTtXd_7s&ct=0&urls=95.163.35.31&clientType=0&zs=43&id=2570171976358"
+      "https://vd552.okcdn.ru/?expires=1791048457612&srcIp=172.215.209.241&pr=10&srcAg=CHROME&ms=185.226.55.62&type=3&sig=zFpmGj3S2HI&ct=0&urls=95.163.35.31&clientType=0&zs=43&id=2570171976358"
     ]
   },
   {
@@ -142,9 +140,9 @@
     "URLS_OKRU": [
       "https://ok.ru/video/3986007919270"
     ],
-    "URL_DIRECTA": "https://vd478.okcdn.ru/?expires=1791028386223&srcIp=172.178.119.21&pr=10&srcAg=CHROME&ms=95.163.35.93&type=3&sig=PMcMNRNV9YY&ct=0&urls=185.226.55.48&clientType=0&zs=43&id=2517720763046",
+    "URL_DIRECTA": "https://vd478.okcdn.ru/?expires=1791048461625&srcIp=172.215.209.241&pr=10&srcAg=CHROME&ms=95.163.35.93&type=3&sig=C383mhfCgi4&ct=0&urls=185.226.55.48&clientType=0&zs=43&id=2517720763046",
     "URLS_DIRECTAS": [
-      "https://vd478.okcdn.ru/?expires=1791028386223&srcIp=172.178.119.21&pr=10&srcAg=CHROME&ms=95.163.35.93&type=3&sig=PMcMNRNV9YY&ct=0&urls=185.226.55.48&clientType=0&zs=43&id=2517720763046"
+      "https://vd478.okcdn.ru/?expires=1791048461625&srcIp=172.215.209.241&pr=10&srcAg=CHROME&ms=95.163.35.93&type=3&sig=C383mhfCgi4&ct=0&urls=185.226.55.48&clientType=0&zs=43&id=2517720763046"
     ]
   },
   {
@@ -166,9 +164,9 @@
     "URLS_OKRU": [
       "https://ok.ru/video/3153250552486"
     ],
-    "URL_DIRECTA": "https://vd506.okcdn.ru/?expires=1791028388876&srcIp=172.178.119.21&pr=10&srcAg=CHROME&ms=185.226.55.16&type=3&sig=kJj3pPZZbQU&ct=0&urls=185.180.203.24&clientType=0&zs=43&id=1694348413606",
+    "URL_DIRECTA": "https://vd627.okcdn.ru/?expires=1791048465496&srcIp=172.215.209.241&pr=10&srcAg=CHROME&ms=185.180.203.24&type=3&sig=13RroJF_MAg&ct=0&urls=185.226.55.16&clientType=0&zs=43&id=1694348413606",
     "URLS_DIRECTAS": [
-      "https://vd506.okcdn.ru/?expires=1791028388876&srcIp=172.178.119.21&pr=10&srcAg=CHROME&ms=185.226.55.16&type=3&sig=kJj3pPZZbQU&ct=0&urls=185.180.203.24&clientType=0&zs=43&id=1694348413606"
+      "https://vd627.okcdn.ru/?expires=1791048465496&srcIp=172.215.209.241&pr=10&srcAg=CHROME&ms=185.180.203.24&type=3&sig=13RroJF_MAg&ct=0&urls=185.226.55.16&clientType=0&zs=43&id=1694348413606"
     ]
   },
   {
@@ -190,9 +188,9 @@
     "URLS_OKRU": [
       "https://ok.ru/video/3144712063654"
     ],
-    "URL_DIRECTA": "https://vd527.okcdn.ru/?expires=1791028391623&srcIp=172.178.119.21&pr=10&srcAg=CHROME&ms=185.226.55.37&type=3&sig=SUP3iO_kPiQ&ct=0&urls=185.180.203.18&clientType=0&zs=43&id=1685858880166",
+    "URL_DIRECTA": "https://vd527.okcdn.ru/?expires=1791048469105&srcIp=172.215.209.241&pr=10&srcAg=CHROME&ms=185.226.55.37&type=3&sig=vyAbMQ50zEo&ct=0&urls=176.112.172.6&clientType=0&zs=43&id=1685858880166",
     "URLS_DIRECTAS": [
-      "https://vd527.okcdn.ru/?expires=1791028391623&srcIp=172.178.119.21&pr=10&srcAg=CHROME&ms=185.226.55.37&type=3&sig=SUP3iO_kPiQ&ct=0&urls=185.180.203.18&clientType=0&zs=43&id=1685858880166"
+      "https://vd527.okcdn.ru/?expires=1791048469105&srcIp=172.215.209.241&pr=10&srcAg=CHROME&ms=185.226.55.37&type=3&sig=vyAbMQ50zEo&ct=0&urls=176.112.172.6&clientType=0&zs=43&id=1685858880166"
     ]
   },
   {
@@ -214,9 +212,9 @@
     "URLS_OKRU": [
       "https://ok.ru/video/3138093845158"
     ],
-    "URL_DIRECTA": "https://vd521.okcdn.ru/?expires=1791028394289&srcIp=172.178.119.21&pr=10&srcAg=CHROME&ms=185.226.55.31&type=3&sig=8Gj-5E0HPl4&ct=0&urls=178.237.23.32&clientType=0&zs=43&id=1679077411494",
+    "URL_DIRECTA": "https://vd521.okcdn.ru/?expires=1791048473174&srcIp=172.215.209.241&pr=10&srcAg=CHROME&ms=185.226.55.31&type=3&sig=h5zfJjE1IZY&ct=0&urls=185.180.203.43&clientType=0&zs=43&id=1679077411494",
     "URLS_DIRECTAS": [
-      "https://vd521.okcdn.ru/?expires=1791028394289&srcIp=172.178.119.21&pr=10&srcAg=CHROME&ms=185.226.55.31&type=3&sig=8Gj-5E0HPl4&ct=0&urls=178.237.23.32&clientType=0&zs=43&id=1679077411494"
+      "https://vd521.okcdn.ru/?expires=1791048473174&srcIp=172.215.209.241&pr=10&srcAg=CHROME&ms=185.226.55.31&type=3&sig=h5zfJjE1IZY&ct=0&urls=185.180.203.43&clientType=0&zs=43&id=1679077411494"
     ]
   },
   {
@@ -238,9 +236,9 @@
     "URLS_OKRU": [
       "https://ok.ru/video/3052291623590"
     ],
-    "URL_DIRECTA": "https://vd406.okcdn.ru/?expires=1791028397311&srcIp=172.178.119.21&pr=10&srcAg=CHROME&ms=185.180.203.127&type=3&sig=ilM67Tud60I&ct=0&urls=95.163.35.18&clientType=0&zs=43&id=1581048203942",
+    "URL_DIRECTA": "https://vd406.okcdn.ru/?expires=1791048476920&srcIp=172.215.209.241&pr=10&srcAg=CHROME&ms=185.180.203.127&type=3&sig=tyTo1xAJNlA&ct=0&urls=95.163.35.18&clientType=0&zs=43&id=1581048203942",
     "URLS_DIRECTAS": [
-      "https://vd406.okcdn.ru/?expires=1791028397311&srcIp=172.178.119.21&pr=10&srcAg=CHROME&ms=185.180.203.127&type=3&sig=ilM67Tud60I&ct=0&urls=95.163.35.18&clientType=0&zs=43&id=1581048203942"
+      "https://vd406.okcdn.ru/?expires=1791048476920&srcIp=172.215.209.241&pr=10&srcAg=CHROME&ms=185.180.203.127&type=3&sig=tyTo1xAJNlA&ct=0&urls=95.163.35.18&clientType=0&zs=43&id=1581048203942"
     ]
   },
   {
@@ -264,10 +262,8 @@
       "https://vimeos.net/embed-q0siugndjwh2.html"
     ],
     "METODO": "AUTOMATICO",
-    "URLS_DIRECTAS": [
-      "https://s9.vimeos.net/hls2/03/00012/q0siugndjwh2_,n,h,.urlset/master.m3u8?t=GzIdxniE4xqAiD6YCwrWex4-9VcBFyugc0WTFlpRsxg&s=1790943292&e=43200&v=375284694&i=0.0&sp=0&fr=q0siugndjwh2&r=e"
-    ],
-    "URL_DIRECTA": "https://s9.vimeos.net/hls2/03/00012/q0siugndjwh2_,n,h,.urlset/master.m3u8?t=GzIdxniE4xqAiD6YCwrWex4-9VcBFyugc0WTFlpRsxg&s=1790943292&e=43200&v=375284694&i=0.0&sp=0&fr=q0siugndjwh2&r=e"
+    "URLS_DIRECTAS": [],
+    "URL_DIRECTA": ""
   },
   {
     "CATEGORIA": "GENERAL",
@@ -315,9 +311,9 @@
     ],
     "METODO": "MANUAL",
     "URLS_DIRECTAS": [
-      "https://vd539.okcdn.ru/?expires=1791029719508&srcIp=172.178.119.21&pr=10&srcAg=CHROME&ms=185.226.55.49&type=7&sig=05tcecsiaGo&ct=0&urls=185.180.203.40&clientType=0&zs=43&id=14888401701614"
+      "https://vd539.okcdn.ru/?expires=1791049555426&srcIp=172.215.209.241&pr=10&srcAg=CHROME&ms=185.226.55.49&type=7&sig=pFmUJDEhepg&ct=0&urls=95.163.35.12&clientType=0&zs=43&id=14888401701614"
     ],
-    "URL_DIRECTA": "https://vd539.okcdn.ru/?expires=1791029719508&srcIp=172.178.119.21&pr=10&srcAg=CHROME&ms=185.226.55.49&type=7&sig=05tcecsiaGo&ct=0&urls=185.180.203.40&clientType=0&zs=43&id=14888401701614"
+    "URL_DIRECTA": "https://vd539.okcdn.ru/?expires=1791049555426&srcIp=172.215.209.241&pr=10&srcAg=CHROME&ms=185.226.55.49&type=7&sig=pFmUJDEhepg&ct=0&urls=95.163.35.12&clientType=0&zs=43&id=14888401701614"
   },
   {
     "CATEGORIA": "GENERAL",
@@ -341,9 +337,9 @@
     ],
     "METODO": "MANUAL",
     "URLS_DIRECTAS": [
-      "https://ok6-14.vkuser.net/?expires=1791029724503&srcIp=172.178.119.21&pr=10&srcAg=CHROME&ms=95.142.206.141&type=7&sig=LmXLQjZpV8E&ct=0&urls=178.237.23.5%3B185.180.203.81&clientType=0&zs=43&id=14956367514350"
+      "https://ok6-14.vkuser.net/?expires=1791049562100&srcIp=172.215.209.241&pr=10&srcAg=CHROME&ms=95.142.206.141&type=7&sig=dJIOFVq8fVU&ct=0&urls=178.237.23.5%3B185.180.203.81&clientType=0&zs=43&id=14956367514350"
     ],
-    "URL_DIRECTA": "https://ok6-14.vkuser.net/?expires=1791029724503&srcIp=172.178.119.21&pr=10&srcAg=CHROME&ms=95.142.206.141&type=7&sig=LmXLQjZpV8E&ct=0&urls=178.237.23.5%3B185.180.203.81&clientType=0&zs=43&id=14956367514350"
+    "URL_DIRECTA": "https://ok6-14.vkuser.net/?expires=1791049562100&srcIp=172.215.209.241&pr=10&srcAg=CHROME&ms=95.142.206.141&type=7&sig=dJIOFVq8fVU&ct=0&urls=178.237.23.5%3B185.180.203.81&clientType=0&zs=43&id=14956367514350"
   },
   {
     "CATEGORIA": "GENERAL",
@@ -367,9 +363,9 @@
     ],
     "METODO": "MANUAL",
     "URLS_DIRECTAS": [
-      "https://vd453.okcdn.ru/?expires=1791029734959&srcIp=172.178.119.21&pr=10&srcAg=CHROME&ms=185.180.203.106&type=3&sig=W_16JCjsJDg&ct=0&urls=95.163.35.109&clientType=0&zs=43&id=15574512700142"
+      "https://vd453.okcdn.ru/?expires=1791049575521&srcIp=172.215.209.241&pr=10&srcAg=CHROME&ms=185.180.203.106&type=3&sig=3QhiycpHa9A&ct=0&urls=95.163.35.109&clientType=0&zs=43&id=15574512700142"
     ],
-    "URL_DIRECTA": "https://vd453.okcdn.ru/?expires=1791029734959&srcIp=172.178.119.21&pr=10&srcAg=CHROME&ms=185.180.203.106&type=3&sig=W_16JCjsJDg&ct=0&urls=95.163.35.109&clientType=0&zs=43&id=15574512700142"
+    "URL_DIRECTA": "https://vd453.okcdn.ru/?expires=1791049575521&srcIp=172.215.209.241&pr=10&srcAg=CHROME&ms=185.180.203.106&type=3&sig=3QhiycpHa9A&ct=0&urls=95.163.35.109&clientType=0&zs=43&id=15574512700142"
   },
   {
     "CATEGORIA": "GENERAL",
@@ -393,9 +389,9 @@
     ],
     "METODO": "MANUAL",
     "URLS_DIRECTAS": [
-      "https://ok6-6.vkuser.net/?expires=1791029737996&srcIp=172.178.119.21&pr=10&srcAg=CHROME&ms=95.142.206.133&type=7&sig=KiPttYK32EM&ct=0&urls=185.226.55.102%3B176.112.172.92&clientType=0&zs=43&id=15591510641390"
+      "https://ok6-6.vkuser.net/?expires=1791049579553&srcIp=172.215.209.241&pr=10&srcAg=CHROME&ms=95.142.206.133&type=7&sig=bfh41A39FEw&ct=0&urls=95.163.35.46%3B185.180.203.22&clientType=0&zs=43&id=15591510641390"
     ],
-    "URL_DIRECTA": "https://ok6-6.vkuser.net/?expires=1791029737996&srcIp=172.178.119.21&pr=10&srcAg=CHROME&ms=95.142.206.133&type=7&sig=KiPttYK32EM&ct=0&urls=185.226.55.102%3B176.112.172.92&clientType=0&zs=43&id=15591510641390"
+    "URL_DIRECTA": "https://ok6-6.vkuser.net/?expires=1791049579553&srcIp=172.215.209.241&pr=10&srcAg=CHROME&ms=95.142.206.133&type=7&sig=bfh41A39FEw&ct=0&urls=95.163.35.46%3B185.180.203.22&clientType=0&zs=43&id=15591510641390"
   },
   {
     "CATEGORIA": "GENERAL",
@@ -419,9 +415,9 @@
     ],
     "METODO": "MANUAL",
     "URLS_DIRECTAS": [
-      "https://ok6-7.vkuser.net/?expires=1791029740904&srcIp=172.178.119.21&pr=10&srcAg=CHROME&ms=95.142.206.134&type=7&sig=7zaEAFtXGv4&ct=0&urls=185.180.203.17%3B185.226.55.105&clientType=0&zs=43&id=15742360029934"
+      "https://ok6-7.vkuser.net/?expires=1791049582915&srcIp=172.215.209.241&pr=10&srcAg=CHROME&ms=95.142.206.134&type=7&sig=NgFnyjGF4Ls&ct=0&urls=185.226.55.105%3B185.180.203.17&clientType=0&zs=43&id=15742360029934"
     ],
-    "URL_DIRECTA": "https://ok6-7.vkuser.net/?expires=1791029740904&srcIp=172.178.119.21&pr=10&srcAg=CHROME&ms=95.142.206.134&type=7&sig=7zaEAFtXGv4&ct=0&urls=185.180.203.17%3B185.226.55.105&clientType=0&zs=43&id=15742360029934"
+    "URL_DIRECTA": "https://ok6-7.vkuser.net/?expires=1791049582915&srcIp=172.215.209.241&pr=10&srcAg=CHROME&ms=95.142.206.134&type=7&sig=NgFnyjGF4Ls&ct=0&urls=185.226.55.105%3B185.180.203.17&clientType=0&zs=43&id=15742360029934"
   },
   {
     "CATEGORIA": "GENERAL",
@@ -445,9 +441,9 @@
     ],
     "METODO": "MANUAL",
     "URLS_DIRECTAS": [
-      "https://ok6-2.vkuser.net/?expires=1791029743674&srcIp=172.178.119.21&pr=10&srcAg=CHROME&ms=95.142.206.129&type=7&sig=ZA_n4tgsMLE&ct=0&urls=178.237.23.15%3B185.226.55.99&clientType=0&zs=43&id=15738297846510"
+      "https://ok6-2.vkuser.net/?expires=1791049586533&srcIp=172.215.209.241&pr=10&srcAg=CHROME&ms=95.142.206.129&type=7&sig=QmwaXkPEIoY&ct=0&urls=178.237.23.15%3B185.226.55.99&clientType=0&zs=43&id=15738297846510"
     ],
-    "URL_DIRECTA": "https://ok6-2.vkuser.net/?expires=1791029743674&srcIp=172.178.119.21&pr=10&srcAg=CHROME&ms=95.142.206.129&type=7&sig=ZA_n4tgsMLE&ct=0&urls=178.237.23.15%3B185.226.55.99&clientType=0&zs=43&id=15738297846510"
+    "URL_DIRECTA": "https://ok6-2.vkuser.net/?expires=1791049586533&srcIp=172.215.209.241&pr=10&srcAg=CHROME&ms=95.142.206.129&type=7&sig=QmwaXkPEIoY&ct=0&urls=178.237.23.15%3B185.226.55.99&clientType=0&zs=43&id=15738297846510"
   },
   {
     "CATEGORIA": "GENERAL",
@@ -471,9 +467,9 @@
     ],
     "METODO": "MANUAL",
     "URLS_DIRECTAS": [
-      "https://ok6-3.vkuser.net/?expires=1791029746761&srcIp=172.178.119.21&pr=10&srcAg=CHROME&ms=95.142.206.130&type=7&sig=_W3Fl2JLEWQ&ct=0&urls=185.226.55.19%3B185.180.203.24&clientType=0&zs=43&id=15758792526574"
+      "https://ok6-3.vkuser.net/?expires=1791049589806&srcIp=172.215.209.241&pr=10&srcAg=CHROME&ms=95.142.206.130&type=7&sig=Ogodf1YniTU&ct=0&urls=185.226.55.19%3B185.180.203.24&clientType=0&zs=43&id=15758792526574"
     ],
-    "URL_DIRECTA": "https://ok6-3.vkuser.net/?expires=1791029746761&srcIp=172.178.119.21&pr=10&srcAg=CHROME&ms=95.142.206.130&type=7&sig=_W3Fl2JLEWQ&ct=0&urls=185.226.55.19%3B185.180.203.24&clientType=0&zs=43&id=15758792526574"
+    "URL_DIRECTA": "https://ok6-3.vkuser.net/?expires=1791049589806&srcIp=172.215.209.241&pr=10&srcAg=CHROME&ms=95.142.206.130&type=7&sig=Ogodf1YniTU&ct=0&urls=185.226.55.19%3B185.180.203.24&clientType=0&zs=43&id=15758792526574"
   },
   {
     "CATEGORIA": "GENERAL",
@@ -497,9 +493,9 @@
     ],
     "METODO": "MANUAL",
     "URLS_DIRECTAS": [
-      "https://vd481.okcdn.ru/?expires=1791029750016&srcIp=172.178.119.21&pr=10&srcAg=CHROME&ms=95.163.35.98&type=3&sig=LVfh53ue2aM&ct=0&urls=185.226.55.25&clientType=0&zs=43&id=15874684947182"
+      "https://vd481.okcdn.ru/?expires=1791049593504&srcIp=172.215.209.241&pr=10&srcAg=CHROME&ms=95.163.35.98&type=3&sig=8nmxgt37N8Q&ct=0&urls=176.112.172.1&clientType=0&zs=43&id=15874684947182"
     ],
-    "URL_DIRECTA": "https://vd481.okcdn.ru/?expires=1791029750016&srcIp=172.178.119.21&pr=10&srcAg=CHROME&ms=95.163.35.98&type=3&sig=LVfh53ue2aM&ct=0&urls=185.226.55.25&clientType=0&zs=43&id=15874684947182"
+    "URL_DIRECTA": "https://vd481.okcdn.ru/?expires=1791049593504&srcIp=172.215.209.241&pr=10&srcAg=CHROME&ms=95.163.35.98&type=3&sig=8nmxgt37N8Q&ct=0&urls=176.112.172.1&clientType=0&zs=43&id=15874684947182"
   },
   {
     "CATEGORIA": "GENERAL",
@@ -523,9 +519,9 @@
     ],
     "METODO": "MANUAL",
     "URLS_DIRECTAS": [
-      "https://vd476.okcdn.ru/?expires=1791029752335&srcIp=172.178.119.21&pr=10&srcAg=CHROME&ms=185.180.203.125&type=3&sig=QG9LUdvcHag&ct=0&urls=178.237.23.75&clientType=0&zs=43&id=15874622819054"
+      "https://vd476.okcdn.ru/?expires=1791049597039&srcIp=172.215.209.241&pr=10&srcAg=CHROME&ms=185.180.203.125&type=3&sig=i7TdSJGgSR0&ct=0&urls=95.163.35.110&clientType=0&zs=43&id=15874622819054"
     ],
-    "URL_DIRECTA": "https://vd476.okcdn.ru/?expires=1791029752335&srcIp=172.178.119.21&pr=10&srcAg=CHROME&ms=185.180.203.125&type=3&sig=QG9LUdvcHag&ct=0&urls=178.237.23.75&clientType=0&zs=43&id=15874622819054"
+    "URL_DIRECTA": "https://vd476.okcdn.ru/?expires=1791049597039&srcIp=172.215.209.241&pr=10&srcAg=CHROME&ms=185.180.203.125&type=3&sig=i7TdSJGgSR0&ct=0&urls=95.163.35.110&clientType=0&zs=43&id=15874622819054"
   },
   {
     "CATEGORIA": "GENERAL",
@@ -549,9 +545,9 @@
     ],
     "METODO": "MANUAL",
     "URLS_DIRECTAS": [
-      "https://vd716.okcdn.ru/?expires=1791029755080&srcIp=172.178.119.21&pr=10&srcAg=CHROME&ms=176.112.172.32&type=3&sig=jyrGzT4nB6Q&ct=0&urls=95.163.35.98&clientType=0&zs=43&id=16058411584238"
+      "https://vd716.okcdn.ru/?expires=1791049600931&srcIp=172.215.209.241&pr=10&srcAg=CHROME&ms=176.112.172.32&type=3&sig=heEuxMd1C_A&ct=0&urls=95.163.35.98&clientType=0&zs=43&id=16058411584238"
     ],
-    "URL_DIRECTA": "https://vd716.okcdn.ru/?expires=1791029755080&srcIp=172.178.119.21&pr=10&srcAg=CHROME&ms=176.112.172.32&type=3&sig=jyrGzT4nB6Q&ct=0&urls=95.163.35.98&clientType=0&zs=43&id=16058411584238"
+    "URL_DIRECTA": "https://vd716.okcdn.ru/?expires=1791049600931&srcIp=172.215.209.241&pr=10&srcAg=CHROME&ms=176.112.172.32&type=3&sig=heEuxMd1C_A&ct=0&urls=95.163.35.98&clientType=0&zs=43&id=16058411584238"
   },
   {
     "CATEGORIA": "GENERAL",
@@ -575,9 +571,9 @@
     ],
     "METODO": "MANUAL",
     "URLS_DIRECTAS": [
-      "https://vd588.okcdn.ru/?expires=1791029757731&srcIp=172.178.119.21&pr=10&srcAg=CHROME&ms=185.226.55.109&type=3&sig=uDFGR1LxO7k&ct=0&urls=185.180.203.98&clientType=0&zs=43&id=16058706561774"
+      "https://vd588.okcdn.ru/?expires=1791049604894&srcIp=172.215.209.241&pr=10&srcAg=CHROME&ms=185.226.55.109&type=3&sig=An9seRSICSY&ct=0&urls=185.180.203.98&clientType=0&zs=43&id=16058706561774"
     ],
-    "URL_DIRECTA": "https://vd588.okcdn.ru/?expires=1791029757731&srcIp=172.178.119.21&pr=10&srcAg=CHROME&ms=185.226.55.109&type=3&sig=uDFGR1LxO7k&ct=0&urls=185.180.203.98&clientType=0&zs=43&id=16058706561774"
+    "URL_DIRECTA": "https://vd588.okcdn.ru/?expires=1791049604894&srcIp=172.215.209.241&pr=10&srcAg=CHROME&ms=185.226.55.109&type=3&sig=An9seRSICSY&ct=0&urls=185.180.203.98&clientType=0&zs=43&id=16058706561774"
   },
   {
     "CATEGORIA": "GENERAL",
@@ -601,9 +597,9 @@
     ],
     "METODO": "MANUAL",
     "URLS_DIRECTAS": [
-      "https://ok6-10.vkuser.net/?expires=1791029760064&srcIp=172.178.119.21&pr=10&srcAg=CHROME&ms=95.142.206.137&type=7&sig=B39BYe0-Np8&ct=0&urls=185.226.55.22%3B95.163.35.5&clientType=0&zs=43&id=16058462374638"
+      "https://ok6-10.vkuser.net/?expires=1791049608671&srcIp=172.215.209.241&pr=10&srcAg=CHROME&ms=95.142.206.137&type=7&sig=L64vZx24rBs&ct=0&urls=185.226.55.22%3B95.163.35.5&clientType=0&zs=43&id=16058462374638"
     ],
-    "URL_DIRECTA": "https://ok6-10.vkuser.net/?expires=1791029760064&srcIp=172.178.119.21&pr=10&srcAg=CHROME&ms=95.142.206.137&type=7&sig=B39BYe0-Np8&ct=0&urls=185.226.55.22%3B95.163.35.5&clientType=0&zs=43&id=16058462374638"
+    "URL_DIRECTA": "https://ok6-10.vkuser.net/?expires=1791049608671&srcIp=172.215.209.241&pr=10&srcAg=CHROME&ms=95.142.206.137&type=7&sig=L64vZx24rBs&ct=0&urls=185.226.55.22%3B95.163.35.5&clientType=0&zs=43&id=16058462374638"
   },
   {
     "CATEGORIA": "GENERAL",
@@ -627,9 +623,9 @@
     ],
     "METODO": "MANUAL",
     "URLS_DIRECTAS": [
-      "https://vd598.okcdn.ru/?expires=1791029762760&srcIp=172.178.119.21&pr=10&srcAg=CHROME&ms=178.237.29.193&type=7&sig=v1sNQ4GRpYI&ct=0&urls=185.180.203.83&clientType=0&zs=43&id=16146506975982"
+      "https://vd598.okcdn.ru/?expires=1791049611895&srcIp=172.215.209.241&pr=10&srcAg=CHROME&ms=178.237.29.193&type=7&sig=NWGJUuFK0ts&ct=0&urls=185.180.203.83&clientType=0&zs=43&id=16146506975982"
     ],
-    "URL_DIRECTA": "https://vd598.okcdn.ru/?expires=1791029762760&srcIp=172.178.119.21&pr=10&srcAg=CHROME&ms=178.237.29.193&type=7&sig=v1sNQ4GRpYI&ct=0&urls=185.180.203.83&clientType=0&zs=43&id=16146506975982"
+    "URL_DIRECTA": "https://vd598.okcdn.ru/?expires=1791049611895&srcIp=172.215.209.241&pr=10&srcAg=CHROME&ms=178.237.29.193&type=7&sig=NWGJUuFK0ts&ct=0&urls=185.180.203.83&clientType=0&zs=43&id=16146506975982"
   },
   {
     "CATEGORIA": "GENERAL",
@@ -653,9 +649,9 @@
     ],
     "METODO": "MANUAL",
     "URLS_DIRECTAS": [
-      "https://vd693.okcdn.ru/?expires=1791029768182&srcIp=172.178.119.21&pr=10&srcAg=CHROME&ms=176.112.172.9&type=3&sig=Nhs10VinL2Q&ct=0&urls=185.226.55.17&clientType=0&zs=43&id=16647311395566"
+      "https://vd693.okcdn.ru/?expires=1791049618598&srcIp=172.215.209.241&pr=10&srcAg=CHROME&ms=176.112.172.9&type=3&sig=hYA-nxufQ4Y&ct=0&urls=185.226.55.17&clientType=0&zs=43&id=16647311395566"
     ],
-    "URL_DIRECTA": "https://vd693.okcdn.ru/?expires=1791029768182&srcIp=172.178.119.21&pr=10&srcAg=CHROME&ms=176.112.172.9&type=3&sig=Nhs10VinL2Q&ct=0&urls=185.226.55.17&clientType=0&zs=43&id=16647311395566"
+    "URL_DIRECTA": "https://vd693.okcdn.ru/?expires=1791049618598&srcIp=172.215.209.241&pr=10&srcAg=CHROME&ms=176.112.172.9&type=3&sig=hYA-nxufQ4Y&ct=0&urls=185.226.55.17&clientType=0&zs=43&id=16647311395566"
   },
   {
     "CATEGORIA": "GENERAL",
@@ -679,9 +675,9 @@
     ],
     "METODO": "MANUAL",
     "URLS_DIRECTAS": [
-      "https://ok6-4.vkuser.net/?expires=1791029770743&srcIp=172.178.119.21&pr=10&srcAg=CHROME&ms=95.142.206.131&type=7&sig=j-bGmmIYA2Y&ct=0&urls=185.226.55.46%3B178.237.23.83&clientType=0&zs=43&id=14780801813230"
+      "https://ok6-4.vkuser.net/?expires=1791049622090&srcIp=172.215.209.241&pr=10&srcAg=CHROME&ms=95.142.206.131&type=7&sig=pcMeXaEIC0E&ct=0&urls=185.226.55.46%3B178.237.29.0&clientType=0&zs=43&id=14780801813230"
     ],
-    "URL_DIRECTA": "https://ok6-4.vkuser.net/?expires=1791029770743&srcIp=172.178.119.21&pr=10&srcAg=CHROME&ms=95.142.206.131&type=7&sig=j-bGmmIYA2Y&ct=0&urls=185.226.55.46%3B178.237.23.83&clientType=0&zs=43&id=14780801813230"
+    "URL_DIRECTA": "https://ok6-4.vkuser.net/?expires=1791049622090&srcIp=172.215.209.241&pr=10&srcAg=CHROME&ms=95.142.206.131&type=7&sig=pcMeXaEIC0E&ct=0&urls=185.226.55.46%3B178.237.29.0&clientType=0&zs=43&id=14780801813230"
   },
   {
     "CATEGORIA": "GENERAL",
@@ -705,9 +701,9 @@
     ],
     "METODO": "MANUAL",
     "URLS_DIRECTAS": [
-      "https://ok6-3.vkuser.net/?expires=1791029773205&srcIp=172.178.119.21&pr=10&srcAg=CHROME&ms=95.142.206.130&type=7&sig=XDNA0EMF3U0&ct=0&urls=95.163.35.110%3B178.237.23.19&clientType=0&zs=43&id=16677509335790"
+      "https://ok6-3.vkuser.net/?expires=1791049625301&srcIp=172.215.209.241&pr=10&srcAg=CHROME&ms=95.142.206.130&type=7&sig=MFP-59lNnEY&ct=0&urls=95.163.35.110%3B178.237.23.19&clientType=0&zs=43&id=16677509335790"
     ],
-    "URL_DIRECTA": "https://ok6-3.vkuser.net/?expires=1791029773205&srcIp=172.178.119.21&pr=10&srcAg=CHROME&ms=95.142.206.130&type=7&sig=XDNA0EMF3U0&ct=0&urls=95.163.35.110%3B178.237.23.19&clientType=0&zs=43&id=16677509335790"
+    "URL_DIRECTA": "https://ok6-3.vkuser.net/?expires=1791049625301&srcIp=172.215.209.241&pr=10&srcAg=CHROME&ms=95.142.206.130&type=7&sig=MFP-59lNnEY&ct=0&urls=95.163.35.110%3B178.237.23.19&clientType=0&zs=43&id=16677509335790"
   },
   {
     "CATEGORIA": "GENERAL",
@@ -731,9 +727,9 @@
     ],
     "METODO": "MANUAL",
     "URLS_DIRECTAS": [
-      "https://vd586.okcdn.ru/?expires=1791029775937&srcIp=172.178.119.21&pr=10&srcAg=CHROME&ms=185.226.55.107&type=3&sig=uG5oYmzn8M4&ct=0&urls=178.237.29.194&clientType=0&zs=43&id=16756981238510"
+      "https://vd586.okcdn.ru/?expires=1791049628490&srcIp=172.215.209.241&pr=10&srcAg=CHROME&ms=185.226.55.107&type=3&sig=vPsQPScgxBE&ct=0&urls=178.237.29.194&clientType=0&zs=43&id=16756981238510"
     ],
-    "URL_DIRECTA": "https://vd586.okcdn.ru/?expires=1791029775937&srcIp=172.178.119.21&pr=10&srcAg=CHROME&ms=185.226.55.107&type=3&sig=uG5oYmzn8M4&ct=0&urls=178.237.29.194&clientType=0&zs=43&id=16756981238510"
+    "URL_DIRECTA": "https://vd586.okcdn.ru/?expires=1791049628490&srcIp=172.215.209.241&pr=10&srcAg=CHROME&ms=185.226.55.107&type=3&sig=vPsQPScgxBE&ct=0&urls=178.237.29.194&clientType=0&zs=43&id=16756981238510"
   },
   {
     "CATEGORIA": "GENERAL",
@@ -757,9 +753,9 @@
     ],
     "METODO": "MANUAL",
     "URLS_DIRECTAS": [
-      "https://vd680.okcdn.ru/?expires=1791029778757&srcIp=172.178.119.21&pr=10&srcAg=CHROME&ms=178.237.23.31&type=3&sig=KZ-uH0Us0ac&ct=0&urls=176.112.172.68&clientType=0&zs=43&id=16758605023982"
+      "https://vd680.okcdn.ru/?expires=1791049631821&srcIp=172.215.209.241&pr=10&srcAg=CHROME&ms=178.237.23.31&type=3&sig=JMD9MoNeEBk&ct=0&urls=176.112.172.68&clientType=0&zs=43&id=16758605023982"
     ],
-    "URL_DIRECTA": "https://vd680.okcdn.ru/?expires=1791029778757&srcIp=172.178.119.21&pr=10&srcAg=CHROME&ms=178.237.23.31&type=3&sig=KZ-uH0Us0ac&ct=0&urls=176.112.172.68&clientType=0&zs=43&id=16758605023982"
+    "URL_DIRECTA": "https://vd680.okcdn.ru/?expires=1791049631821&srcIp=172.215.209.241&pr=10&srcAg=CHROME&ms=178.237.23.31&type=3&sig=JMD9MoNeEBk&ct=0&urls=176.112.172.68&clientType=0&zs=43&id=16758605023982"
   },
   {
     "CATEGORIA": "GENERAL",
@@ -783,9 +779,9 @@
     ],
     "METODO": "MANUAL",
     "URLS_DIRECTAS": [
-      "https://ok6-7.vkuser.net/?expires=1791029781483&srcIp=172.178.119.21&pr=10&srcAg=CHROME&ms=95.142.206.134&type=7&sig=Uzo7PANv1Bs&ct=0&urls=178.237.23.23%3B95.163.35.15&clientType=0&zs=43&id=16773922360046"
+      "https://ok6-7.vkuser.net/?expires=1791049634607&srcIp=172.215.209.241&pr=10&srcAg=CHROME&ms=95.142.206.134&type=7&sig=XqUFHV2GtFI&ct=0&urls=178.237.23.23%3B95.163.35.15&clientType=0&zs=43&id=16773922360046"
     ],
-    "URL_DIRECTA": "https://ok6-7.vkuser.net/?expires=1791029781483&srcIp=172.178.119.21&pr=10&srcAg=CHROME&ms=95.142.206.134&type=7&sig=Uzo7PANv1Bs&ct=0&urls=178.237.23.23%3B95.163.35.15&clientType=0&zs=43&id=16773922360046"
+    "URL_DIRECTA": "https://ok6-7.vkuser.net/?expires=1791049634607&srcIp=172.215.209.241&pr=10&srcAg=CHROME&ms=95.142.206.134&type=7&sig=XqUFHV2GtFI&ct=0&urls=178.237.23.23%3B95.163.35.15&clientType=0&zs=43&id=16773922360046"
   },
   {
     "CATEGORIA": "GENERAL",
@@ -809,9 +805,9 @@
     ],
     "METODO": "MANUAL",
     "URLS_DIRECTAS": [
-      "https://vd533.okcdn.ru/?expires=1791029784825&srcIp=172.178.119.21&pr=10&srcAg=CHROME&ms=185.226.55.43&type=3&sig=MF1t9uKlNCM&ct=0&urls=176.112.172.12&clientType=0&zs=43&id=9293913066222"
+      "https://vd696.okcdn.ru/?expires=1791049637850&srcIp=172.215.209.241&pr=10&srcAg=CHROME&ms=176.112.172.12&type=3&sig=cO0Raa57bCE&ct=0&urls=185.226.55.43&clientType=0&zs=43&id=9293913066222"
     ],
-    "URL_DIRECTA": "https://vd533.okcdn.ru/?expires=1791029784825&srcIp=172.178.119.21&pr=10&srcAg=CHROME&ms=185.226.55.43&type=3&sig=MF1t9uKlNCM&ct=0&urls=176.112.172.12&clientType=0&zs=43&id=9293913066222"
+    "URL_DIRECTA": "https://vd696.okcdn.ru/?expires=1791049637850&srcIp=172.215.209.241&pr=10&srcAg=CHROME&ms=176.112.172.12&type=3&sig=cO0Raa57bCE&ct=0&urls=185.226.55.43&clientType=0&zs=43&id=9293913066222"
   },
   {
     "CATEGORIA": "GENERAL",
@@ -835,9 +831,9 @@
     ],
     "METODO": "MANUAL",
     "URLS_DIRECTAS": [
-      "https://ok6-11.vkuser.net/?expires=1791029791335&srcIp=172.178.119.21&pr=10&srcAg=CHROME&ms=95.142.206.138&type=7&sig=wEbI9Zgqa58&ct=0&urls=178.237.23.7%3B176.112.172.9&clientType=0&zs=43&id=16861860268782"
+      "https://ok6-11.vkuser.net/?expires=1791049644915&srcIp=172.215.209.241&pr=10&srcAg=CHROME&ms=95.142.206.138&type=7&sig=mvmtW5roGZ4&ct=0&urls=176.112.172.9%3B178.237.23.7&clientType=0&zs=43&id=16861860268782"
     ],
-    "URL_DIRECTA": "https://ok6-11.vkuser.net/?expires=1791029791335&srcIp=172.178.119.21&pr=10&srcAg=CHROME&ms=95.142.206.138&type=7&sig=wEbI9Zgqa58&ct=0&urls=178.237.23.7%3B176.112.172.9&clientType=0&zs=43&id=16861860268782"
+    "URL_DIRECTA": "https://ok6-11.vkuser.net/?expires=1791049644915&srcIp=172.215.209.241&pr=10&srcAg=CHROME&ms=95.142.206.138&type=7&sig=mvmtW5roGZ4&ct=0&urls=176.112.172.9%3B178.237.23.7&clientType=0&zs=43&id=16861860268782"
   },
   {
     "CATEGORIA": "GENERAL",
@@ -861,9 +857,9 @@
     ],
     "METODO": "MANUAL",
     "URLS_DIRECTAS": [
-      "https://ok6-12.vkuser.net/?expires=1791029794598&srcIp=172.178.119.21&pr=10&srcAg=CHROME&ms=95.142.206.139&type=7&sig=3qVwJRCYTbk&ct=0&urls=185.180.203.31%3B176.112.172.14&clientType=0&zs=43&id=16891767818990"
+      "https://ok6-12.vkuser.net/?expires=1791049649549&srcIp=172.215.209.241&pr=10&srcAg=CHROME&ms=95.142.206.139&type=7&sig=bjW34tQQfk4&ct=0&urls=185.180.203.31%3B176.112.172.14&clientType=0&zs=43&id=16891767818990"
     ],
-    "URL_DIRECTA": "https://ok6-12.vkuser.net/?expires=1791029794598&srcIp=172.178.119.21&pr=10&srcAg=CHROME&ms=95.142.206.139&type=7&sig=3qVwJRCYTbk&ct=0&urls=185.180.203.31%3B176.112.172.14&clientType=0&zs=43&id=16891767818990"
+    "URL_DIRECTA": "https://ok6-12.vkuser.net/?expires=1791049649549&srcIp=172.215.209.241&pr=10&srcAg=CHROME&ms=95.142.206.139&type=7&sig=bjW34tQQfk4&ct=0&urls=185.180.203.31%3B176.112.172.14&clientType=0&zs=43&id=16891767818990"
   },
   {
     "CATEGORIA": "GENERAL",
@@ -887,9 +883,9 @@
     ],
     "METODO": "MANUAL",
     "URLS_DIRECTAS": [
-      "https://ok6-11.vkuser.net/?expires=1791029797963&srcIp=172.178.119.21&pr=10&srcAg=CHROME&ms=95.142.206.138&type=3&sig=ZsBJjOu7n9k&ct=0&urls=185.180.203.77%3B178.237.23.40&clientType=0&zs=43&id=16973215304430"
+      "https://ok6-11.vkuser.net/?expires=1791049652865&srcIp=172.215.209.241&pr=10&srcAg=CHROME&ms=95.142.206.138&type=3&sig=vqz57J5uqLA&ct=0&urls=185.180.203.77%3B95.163.35.11&clientType=0&zs=43&id=16973215304430"
     ],
-    "URL_DIRECTA": "https://ok6-11.vkuser.net/?expires=1791029797963&srcIp=172.178.119.21&pr=10&srcAg=CHROME&ms=95.142.206.138&type=3&sig=ZsBJjOu7n9k&ct=0&urls=185.180.203.77%3B178.237.23.40&clientType=0&zs=43&id=16973215304430"
+    "URL_DIRECTA": "https://ok6-11.vkuser.net/?expires=1791049652865&srcIp=172.215.209.241&pr=10&srcAg=CHROME&ms=95.142.206.138&type=3&sig=vqz57J5uqLA&ct=0&urls=185.180.203.77%3B95.163.35.11&clientType=0&zs=43&id=16973215304430"
   },
   {
     "CATEGORIA": "GENERAL",
@@ -913,9 +909,9 @@
     ],
     "METODO": "MANUAL",
     "URLS_DIRECTAS": [
-      "https://ok6-7.vkuser.net/?expires=1791029800852&srcIp=172.178.119.21&pr=10&srcAg=CHROME&ms=95.142.206.134&type=3&subId=9262059686638&sig=nUXJBIBUqQs&ct=0&urls=185.180.203.37%3B185.226.55.17&clientType=0&zs=43&id=9262059686638"
+      "https://ok6-7.vkuser.net/?expires=1791049656993&srcIp=172.215.209.241&pr=10&srcAg=CHROME&ms=95.142.206.134&type=3&subId=9262059686638&sig=gWVRzUniei8&ct=0&urls=185.180.203.37%3B185.226.55.17&clientType=0&zs=43&id=9262059686638"
     ],
-    "URL_DIRECTA": "https://ok6-7.vkuser.net/?expires=1791029800852&srcIp=172.178.119.21&pr=10&srcAg=CHROME&ms=95.142.206.134&type=3&subId=9262059686638&sig=nUXJBIBUqQs&ct=0&urls=185.180.203.37%3B185.226.55.17&clientType=0&zs=43&id=9262059686638"
+    "URL_DIRECTA": "https://ok6-7.vkuser.net/?expires=1791049656993&srcIp=172.215.209.241&pr=10&srcAg=CHROME&ms=95.142.206.134&type=3&subId=9262059686638&sig=gWVRzUniei8&ct=0&urls=185.180.203.37%3B185.226.55.17&clientType=0&zs=43&id=9262059686638"
   },
   {
     "CATEGORIA": "GENERAL",
@@ -939,9 +935,9 @@
     ],
     "METODO": "MANUAL",
     "URLS_DIRECTAS": [
-      "https://ok6-9.vkuser.net/?expires=1791029803903&srcIp=172.178.119.21&pr=10&srcAg=CHROME&ms=95.142.206.136&type=3&subId=17003706190574&sig=Dh38yrIxJfc&ct=0&urls=185.226.55.57%3B95.163.35.19&clientType=0&zs=43&id=17003706190574"
+      "https://ok6-9.vkuser.net/?expires=1791049660384&srcIp=172.215.209.241&pr=10&srcAg=CHROME&ms=95.142.206.136&type=3&subId=17003706190574&sig=hUtnVO-OYyc&ct=0&urls=185.226.55.57%3B95.163.35.19&clientType=0&zs=43&id=17003706190574"
     ],
-    "URL_DIRECTA": "https://ok6-9.vkuser.net/?expires=1791029803903&srcIp=172.178.119.21&pr=10&srcAg=CHROME&ms=95.142.206.136&type=3&subId=17003706190574&sig=Dh38yrIxJfc&ct=0&urls=185.226.55.57%3B95.163.35.19&clientType=0&zs=43&id=17003706190574"
+    "URL_DIRECTA": "https://ok6-9.vkuser.net/?expires=1791049660384&srcIp=172.215.209.241&pr=10&srcAg=CHROME&ms=95.142.206.136&type=3&subId=17003706190574&sig=hUtnVO-OYyc&ct=0&urls=185.226.55.57%3B95.163.35.19&clientType=0&zs=43&id=17003706190574"
   },
   {
     "CATEGORIA": "GENERAL",
@@ -965,9 +961,9 @@
     ],
     "METODO": "MANUAL",
     "URLS_DIRECTAS": [
-      "https://ok6-1.vkuser.net/?expires=1791029806944&srcIp=172.178.119.21&pr=10&srcAg=CHROME&ms=95.142.206.128&type=3&sig=OQFevcj7Z_U&ct=0&urls=185.180.203.43%3B178.237.23.6&clientType=0&zs=43&id=16984832346862"
+      "https://ok6-1.vkuser.net/?expires=1791049664335&srcIp=172.215.209.241&pr=10&srcAg=CHROME&ms=95.142.206.128&type=3&sig=JpmWFgBkDG4&ct=0&urls=185.180.203.43%3B178.237.23.6&clientType=0&zs=43&id=16984832346862"
     ],
-    "URL_DIRECTA": "https://ok6-1.vkuser.net/?expires=1791029806944&srcIp=172.178.119.21&pr=10&srcAg=CHROME&ms=95.142.206.128&type=3&sig=OQFevcj7Z_U&ct=0&urls=185.180.203.43%3B178.237.23.6&clientType=0&zs=43&id=16984832346862"
+    "URL_DIRECTA": "https://ok6-1.vkuser.net/?expires=1791049664335&srcIp=172.215.209.241&pr=10&srcAg=CHROME&ms=95.142.206.128&type=3&sig=JpmWFgBkDG4&ct=0&urls=185.180.203.43%3B178.237.23.6&clientType=0&zs=43&id=16984832346862"
   },
   {
     "CATEGORIA": "GENERAL",
@@ -991,9 +987,9 @@
     ],
     "METODO": "MANUAL",
     "URLS_DIRECTAS": [
-      "https://ok6-1.vkuser.net/?expires=1791029809771&srcIp=172.178.119.21&pr=10&srcAg=CHROME&ms=95.142.206.128&type=7&sig=Gg8eDJC0Y0Q&ct=0&urls=176.112.172.25%3B178.237.29.8&clientType=0&zs=43&id=17095097649902"
+      "https://ok6-1.vkuser.net/?expires=1791049667263&srcIp=172.215.209.241&pr=10&srcAg=CHROME&ms=95.142.206.128&type=7&sig=QxilYLo5-EU&ct=0&urls=176.112.172.25%3B178.237.29.8&clientType=0&zs=43&id=17095097649902"
     ],
-    "URL_DIRECTA": "https://ok6-1.vkuser.net/?expires=1791029809771&srcIp=172.178.119.21&pr=10&srcAg=CHROME&ms=95.142.206.128&type=7&sig=Gg8eDJC0Y0Q&ct=0&urls=176.112.172.25%3B178.237.29.8&clientType=0&zs=43&id=17095097649902"
+    "URL_DIRECTA": "https://ok6-1.vkuser.net/?expires=1791049667263&srcIp=172.215.209.241&pr=10&srcAg=CHROME&ms=95.142.206.128&type=7&sig=QxilYLo5-EU&ct=0&urls=176.112.172.25%3B178.237.29.8&clientType=0&zs=43&id=17095097649902"
   },
   {
     "CATEGORIA": "GENERAL",
@@ -1017,9 +1013,9 @@
     ],
     "METODO": "MANUAL",
     "URLS_DIRECTAS": [
-      "https://ok6-14.vkuser.net/?expires=1791029812761&srcIp=172.178.119.21&pr=10&srcAg=CHROME&ms=95.142.206.141&type=7&sig=fdRbIIk8-dA&ct=0&urls=178.237.23.10%3B185.180.203.30&clientType=0&zs=43&id=17150739221230"
+      "https://ok6-14.vkuser.net/?expires=1791049671382&srcIp=172.215.209.241&pr=10&srcAg=CHROME&ms=95.142.206.141&type=7&sig=Nqgcz6DLslU&ct=0&urls=178.237.23.10%3B176.112.172.92&clientType=0&zs=43&id=17150739221230"
     ],
-    "URL_DIRECTA": "https://ok6-14.vkuser.net/?expires=1791029812761&srcIp=172.178.119.21&pr=10&srcAg=CHROME&ms=95.142.206.141&type=7&sig=fdRbIIk8-dA&ct=0&urls=178.237.23.10%3B185.180.203.30&clientType=0&zs=43&id=17150739221230"
+    "URL_DIRECTA": "https://ok6-14.vkuser.net/?expires=1791049671382&srcIp=172.215.209.241&pr=10&srcAg=CHROME&ms=95.142.206.141&type=7&sig=Nqgcz6DLslU&ct=0&urls=178.237.23.10%3B176.112.172.92&clientType=0&zs=43&id=17150739221230"
   },
   {
     "CATEGORIA": "GENERAL",
@@ -1043,9 +1039,9 @@
     ],
     "METODO": "MANUAL",
     "URLS_DIRECTAS": [
-      "https://ok6-3.vkuser.net/?expires=1791029815126&srcIp=172.178.119.21&pr=10&srcAg=CHROME&ms=95.142.206.130&type=7&sig=rMgqNV4bdUU&ct=0&urls=178.237.23.50%3B176.112.172.22&clientType=0&zs=43&id=17151295163118"
+      "https://ok6-3.vkuser.net/?expires=1791049674846&srcIp=172.215.209.241&pr=10&srcAg=CHROME&ms=95.142.206.130&type=7&sig=7orUZPK2Vig&ct=0&urls=178.237.23.50%3B185.226.55.15&clientType=0&zs=43&id=17151295163118"
     ],
-    "URL_DIRECTA": "https://ok6-3.vkuser.net/?expires=1791029815126&srcIp=172.178.119.21&pr=10&srcAg=CHROME&ms=95.142.206.130&type=7&sig=rMgqNV4bdUU&ct=0&urls=178.237.23.50%3B176.112.172.22&clientType=0&zs=43&id=17151295163118"
+    "URL_DIRECTA": "https://ok6-3.vkuser.net/?expires=1791049674846&srcIp=172.215.209.241&pr=10&srcAg=CHROME&ms=95.142.206.130&type=7&sig=7orUZPK2Vig&ct=0&urls=178.237.23.50%3B185.226.55.15&clientType=0&zs=43&id=17151295163118"
   },
   {
     "CATEGORIA": "GENERAL",
@@ -1069,9 +1065,9 @@
     ],
     "METODO": "MANUAL",
     "URLS_DIRECTAS": [
-      "https://ok6-10.vkuser.net/?expires=1791029818261&srcIp=172.178.119.21&pr=10&srcAg=CHROME&ms=95.142.206.137&type=7&sig=X_Nc3Hg74Og&ct=0&urls=185.226.55.93%3B178.237.23.32&clientType=0&zs=43&id=17166241237742&scl=5"
+      "https://ok6-10.vkuser.net/?expires=1791049678367&srcIp=172.215.209.241&pr=10&srcAg=CHROME&ms=95.142.206.137&type=7&sig=GWI3AOt78cw&ct=0&urls=185.226.55.93%3B95.163.35.111&clientType=0&zs=43&id=17166241237742&scl=5"
     ],
-    "URL_DIRECTA": "https://ok6-10.vkuser.net/?expires=1791029818261&srcIp=172.178.119.21&pr=10&srcAg=CHROME&ms=95.142.206.137&type=7&sig=X_Nc3Hg74Og&ct=0&urls=185.226.55.93%3B178.237.23.32&clientType=0&zs=43&id=17166241237742&scl=5"
+    "URL_DIRECTA": "https://ok6-10.vkuser.net/?expires=1791049678367&srcIp=172.215.209.241&pr=10&srcAg=CHROME&ms=95.142.206.137&type=7&sig=GWI3AOt78cw&ct=0&urls=185.226.55.93%3B95.163.35.111&clientType=0&zs=43&id=17166241237742&scl=5"
   },
   {
     "CATEGORIA": "GENERAL",
@@ -1095,9 +1091,9 @@
     ],
     "METODO": "MANUAL",
     "URLS_DIRECTAS": [
-      "https://vd760.okcdn.ru/?expires=1791029821673&srcIp=172.178.119.21&pr=10&srcAg=CHROME&ms=95.163.35.37&type=7&sig=YtTMM8Dtzls&ct=0&urls=185.180.203.14&clientType=0&zs=43&id=17171348785902&scl=5"
+      "https://vd760.okcdn.ru/?expires=1791049682273&srcIp=172.215.209.241&pr=10&srcAg=CHROME&ms=95.163.35.37&type=7&sig=xzx82zwVWFU&ct=0&urls=185.180.203.14&clientType=0&zs=43&id=17171348785902&scl=5"
     ],
-    "URL_DIRECTA": "https://vd760.okcdn.ru/?expires=1791029821673&srcIp=172.178.119.21&pr=10&srcAg=CHROME&ms=95.163.35.37&type=7&sig=YtTMM8Dtzls&ct=0&urls=185.180.203.14&clientType=0&zs=43&id=17171348785902&scl=5"
+    "URL_DIRECTA": "https://vd760.okcdn.ru/?expires=1791049682273&srcIp=172.215.209.241&pr=10&srcAg=CHROME&ms=95.163.35.37&type=7&sig=xzx82zwVWFU&ct=0&urls=185.180.203.14&clientType=0&zs=43&id=17171348785902&scl=5"
   },
   {
     "CATEGORIA": "GENERAL",
@@ -1121,9 +1117,9 @@
     ],
     "METODO": "MANUAL",
     "URLS_DIRECTAS": [
-      "https://ok6-10.vkuser.net/?expires=1791029824472&srcIp=172.178.119.21&pr=10&srcAg=CHROME&ms=95.142.206.137&type=7&sig=TxPxB_-bP7I&ct=0&urls=185.180.203.77%3B178.237.23.53&clientType=0&zs=43&id=17177469586158&scl=5"
+      "https://ok6-10.vkuser.net/?expires=1791049685457&srcIp=172.215.209.241&pr=10&srcAg=CHROME&ms=95.142.206.137&type=7&sig=J5F3pSEDgKM&ct=0&urls=185.180.203.77%3B178.237.23.53&clientType=0&zs=43&id=17177469586158&scl=5"
     ],
-    "URL_DIRECTA": "https://ok6-10.vkuser.net/?expires=1791029824472&srcIp=172.178.119.21&pr=10&srcAg=CHROME&ms=95.142.206.137&type=7&sig=TxPxB_-bP7I&ct=0&urls=185.180.203.77%3B178.237.23.53&clientType=0&zs=43&id=17177469586158&scl=5"
+    "URL_DIRECTA": "https://ok6-10.vkuser.net/?expires=1791049685457&srcIp=172.215.209.241&pr=10&srcAg=CHROME&ms=95.142.206.137&type=7&sig=J5F3pSEDgKM&ct=0&urls=185.180.203.77%3B178.237.23.53&clientType=0&zs=43&id=17177469586158&scl=5"
   },
   {
     "CATEGORIA": "GENERAL",
@@ -1147,9 +1143,9 @@
     ],
     "METODO": "MANUAL",
     "URLS_DIRECTAS": [
-      "https://vd346.okcdn.ru/?expires=1791029827574&srcIp=172.178.119.21&pr=10&srcAg=CHROME&ms=185.180.203.99&type=7&sig=coXmKy6x-Q0&ct=0&urls=176.112.172.11&clientType=0&zs=43&id=17186074921710&scl=5"
+      "https://vd695.okcdn.ru/?expires=1791049689638&srcIp=172.215.209.241&pr=10&srcAg=CHROME&ms=176.112.172.11&type=7&sig=tFet3VtBeL8&ct=0&urls=185.180.203.99&clientType=0&zs=43&id=17186074921710&scl=5"
     ],
-    "URL_DIRECTA": "https://vd346.okcdn.ru/?expires=1791029827574&srcIp=172.178.119.21&pr=10&srcAg=CHROME&ms=185.180.203.99&type=7&sig=coXmKy6x-Q0&ct=0&urls=176.112.172.11&clientType=0&zs=43&id=17186074921710&scl=5"
+    "URL_DIRECTA": "https://vd695.okcdn.ru/?expires=1791049689638&srcIp=172.215.209.241&pr=10&srcAg=CHROME&ms=176.112.172.11&type=7&sig=tFet3VtBeL8&ct=0&urls=185.180.203.99&clientType=0&zs=43&id=17186074921710&scl=5"
   },
   {
     "CATEGORIA": "GENERAL",
@@ -1173,9 +1169,9 @@
     ],
     "METODO": "MANUAL",
     "URLS_DIRECTAS": [
-      "https://ok6-12.vkuser.net/?expires=1791029830300&srcIp=172.178.119.21&pr=10&srcAg=CHROME&ms=95.142.206.139&type=7&sig=e_0rnfC0Ouc&ct=0&urls=95.163.35.110%3B185.226.55.103&clientType=0&zs=43&id=17293129026286&scl=5"
+      "https://ok6-12.vkuser.net/?expires=1791049692736&srcIp=172.215.209.241&pr=10&srcAg=CHROME&ms=95.142.206.139&type=7&sig=4QvBgKRkPzE&ct=0&urls=95.163.35.110%3B185.226.55.103&clientType=0&zs=43&id=17293129026286&scl=5"
     ],
-    "URL_DIRECTA": "https://ok6-12.vkuser.net/?expires=1791029830300&srcIp=172.178.119.21&pr=10&srcAg=CHROME&ms=95.142.206.139&type=7&sig=e_0rnfC0Ouc&ct=0&urls=95.163.35.110%3B185.226.55.103&clientType=0&zs=43&id=17293129026286&scl=5"
+    "URL_DIRECTA": "https://ok6-12.vkuser.net/?expires=1791049692736&srcIp=172.215.209.241&pr=10&srcAg=CHROME&ms=95.142.206.139&type=7&sig=4QvBgKRkPzE&ct=0&urls=95.163.35.110%3B185.226.55.103&clientType=0&zs=43&id=17293129026286&scl=5"
   },
   {
     "CATEGORIA": "GENERAL",
@@ -1199,9 +1195,9 @@
     ],
     "METODO": "MANUAL",
     "URLS_DIRECTAS": [
-      "https://ok6-5.vkuser.net/?expires=1791029835663&srcIp=172.178.119.21&pr=10&srcAg=CHROME&ms=95.142.206.132&type=7&sig=yhzM4r0GbIs&ct=0&urls=185.226.55.14%3B185.180.203.19&clientType=0&zs=43&id=17367169436398&scl=5"
+      "https://ok6-5.vkuser.net/?expires=1791049700482&srcIp=172.215.209.241&pr=10&srcAg=CHROME&ms=95.142.206.132&type=7&sig=5QICY0L2e1c&ct=0&urls=185.226.55.14%3B185.180.203.19&clientType=0&zs=43&id=17367169436398&scl=5"
     ],
-    "URL_DIRECTA": "https://ok6-5.vkuser.net/?expires=1791029835663&srcIp=172.178.119.21&pr=10&srcAg=CHROME&ms=95.142.206.132&type=7&sig=yhzM4r0GbIs&ct=0&urls=185.226.55.14%3B185.180.203.19&clientType=0&zs=43&id=17367169436398&scl=5"
+    "URL_DIRECTA": "https://ok6-5.vkuser.net/?expires=1791049700482&srcIp=172.215.209.241&pr=10&srcAg=CHROME&ms=95.142.206.132&type=7&sig=5QICY0L2e1c&ct=0&urls=185.226.55.14%3B185.180.203.19&clientType=0&zs=43&id=17367169436398&scl=5"
   },
   {
     "CATEGORIA": "GENERAL",
@@ -1225,9 +1221,9 @@
     ],
     "METODO": "MANUAL",
     "URLS_DIRECTAS": [
-      "https://ok6-12.vkuser.net/?expires=1791029841322&srcIp=172.178.119.21&pr=10&srcAg=CHROME&ms=95.142.206.139&type=7&sig=LGQiN-qF8B4&ct=0&urls=178.237.23.86%3B95.163.35.12&clientType=0&zs=43&id=17540347333358&scl=5"
+      "https://ok6-12.vkuser.net/?expires=1791049706811&srcIp=172.215.209.241&pr=10&srcAg=CHROME&ms=95.142.206.139&type=7&sig=5ZfNK34LTx4&ct=0&urls=178.237.23.86%3B185.226.55.17&clientType=0&zs=43&id=17540347333358&scl=5"
     ],
-    "URL_DIRECTA": "https://ok6-12.vkuser.net/?expires=1791029841322&srcIp=172.178.119.21&pr=10&srcAg=CHROME&ms=95.142.206.139&type=7&sig=LGQiN-qF8B4&ct=0&urls=178.237.23.86%3B95.163.35.12&clientType=0&zs=43&id=17540347333358&scl=5"
+    "URL_DIRECTA": "https://ok6-12.vkuser.net/?expires=1791049706811&srcIp=172.215.209.241&pr=10&srcAg=CHROME&ms=95.142.206.139&type=7&sig=5ZfNK34LTx4&ct=0&urls=178.237.23.86%3B185.226.55.17&clientType=0&zs=43&id=17540347333358&scl=5"
   },
   {
     "CATEGORIA": "GENERAL",
@@ -1251,9 +1247,9 @@
     ],
     "METODO": "MANUAL",
     "URLS_DIRECTAS": [
-      "https://vd505.okcdn.ru/?expires=1791029846569&srcIp=172.178.119.21&pr=10&srcAg=CHROME&ms=185.226.55.15&type=3&sig=O4rjv5o8Bvg&ct=0&urls=185.180.203.25&clientType=0&zs=43&id=7060949699204"
+      "https://vd505.okcdn.ru/?expires=1791049714480&srcIp=172.215.209.241&pr=10&srcAg=CHROME&ms=185.226.55.15&type=3&sig=YKITQQVjIHY&ct=0&urls=176.112.172.18&clientType=0&zs=43&id=7060949699204"
     ],
-    "URL_DIRECTA": "https://vd505.okcdn.ru/?expires=1791029846569&srcIp=172.178.119.21&pr=10&srcAg=CHROME&ms=185.226.55.15&type=3&sig=O4rjv5o8Bvg&ct=0&urls=185.180.203.25&clientType=0&zs=43&id=7060949699204"
+    "URL_DIRECTA": "https://vd505.okcdn.ru/?expires=1791049714480&srcIp=172.215.209.241&pr=10&srcAg=CHROME&ms=185.226.55.15&type=3&sig=YKITQQVjIHY&ct=0&urls=176.112.172.18&clientType=0&zs=43&id=7060949699204"
   },
   {
     "CATEGORIA": "GENERAL",
@@ -1277,9 +1273,9 @@
     ],
     "METODO": "MANUAL",
     "URLS_DIRECTAS": [
-      "https://vd633.okcdn.ru/?expires=1791029850129&srcIp=172.178.119.21&pr=10&srcAg=CHROME&ms=185.180.203.30&type=3&sig=vOpw7HtMh6o&ct=0&urls=95.163.35.2&clientType=0&zs=43&id=7048213826180"
+      "https://vd633.okcdn.ru/?expires=1791049717355&srcIp=172.215.209.241&pr=10&srcAg=CHROME&ms=185.180.203.30&type=3&sig=dJ3QlKaOF-s&ct=0&urls=95.163.35.2&clientType=0&zs=43&id=7048213826180"
     ],
-    "URL_DIRECTA": "https://vd633.okcdn.ru/?expires=1791029850129&srcIp=172.178.119.21&pr=10&srcAg=CHROME&ms=185.180.203.30&type=3&sig=vOpw7HtMh6o&ct=0&urls=95.163.35.2&clientType=0&zs=43&id=7048213826180"
+    "URL_DIRECTA": "https://vd633.okcdn.ru/?expires=1791049717355&srcIp=172.215.209.241&pr=10&srcAg=CHROME&ms=185.180.203.30&type=3&sig=dJ3QlKaOF-s&ct=0&urls=95.163.35.2&clientType=0&zs=43&id=7048213826180"
   },
   {
     "CATEGORIA": "GENERAL",
@@ -1303,9 +1299,9 @@
     ],
     "METODO": "MANUAL",
     "URLS_DIRECTAS": [
-      "https://vd642.okcdn.ru/?expires=1791029852701&srcIp=172.178.119.21&pr=10&srcAg=CHROME&ms=185.180.203.39&type=3&sig=-bz6AWMVjSQ&ct=0&urls=185.226.55.57&clientType=0&zs=43&id=6990398425732"
+      "https://vd642.okcdn.ru/?expires=1791049721073&srcIp=172.215.209.241&pr=10&srcAg=CHROME&ms=185.180.203.39&type=3&sig=Pu83aczT5uY&ct=0&urls=185.226.55.57&clientType=0&zs=43&id=6990398425732"
     ],
-    "URL_DIRECTA": "https://vd642.okcdn.ru/?expires=1791029852701&srcIp=172.178.119.21&pr=10&srcAg=CHROME&ms=185.180.203.39&type=3&sig=-bz6AWMVjSQ&ct=0&urls=185.226.55.57&clientType=0&zs=43&id=6990398425732"
+    "URL_DIRECTA": "https://vd642.okcdn.ru/?expires=1791049721073&srcIp=172.215.209.241&pr=10&srcAg=CHROME&ms=185.180.203.39&type=3&sig=Pu83aczT5uY&ct=0&urls=185.226.55.57&clientType=0&zs=43&id=6990398425732"
   },
   {
     "CATEGORIA": "GENERAL",
@@ -1329,9 +1325,9 @@
     ],
     "METODO": "MANUAL",
     "URLS_DIRECTAS": [
-      "https://vd248.okcdn.ru/?expires=1791029855955&srcIp=172.178.119.21&pr=10&srcAg=CHROME&ms=178.237.23.105&type=3&sig=rTas-3313qU&ct=0&urls=185.180.203.18&clientType=0&zs=43&id=6990239959684"
+      "https://vd248.okcdn.ru/?expires=1791049725078&srcIp=172.215.209.241&pr=10&srcAg=CHROME&ms=178.237.23.105&type=3&sig=R6h95kkyHcY&ct=0&urls=185.180.203.18&clientType=0&zs=43&id=6990239959684"
     ],
-    "URL_DIRECTA": "https://vd248.okcdn.ru/?expires=1791029855955&srcIp=172.178.119.21&pr=10&srcAg=CHROME&ms=178.237.23.105&type=3&sig=rTas-3313qU&ct=0&urls=185.180.203.18&clientType=0&zs=43&id=6990239959684"
+    "URL_DIRECTA": "https://vd248.okcdn.ru/?expires=1791049725078&srcIp=172.215.209.241&pr=10&srcAg=CHROME&ms=178.237.23.105&type=3&sig=R6h95kkyHcY&ct=0&urls=185.180.203.18&clientType=0&zs=43&id=6990239959684"
   },
   {
     "CATEGORIA": "GENERAL",
@@ -1355,9 +1351,9 @@
     ],
     "METODO": "MANUAL",
     "URLS_DIRECTAS": [
-      "https://vd301.okcdn.ru/?expires=1791029859542&srcIp=172.178.119.21&pr=10&srcAg=CHROME&ms=185.180.203.51&type=3&sig=dpxvjfIKji0&ct=0&urls=176.112.172.66&clientType=0&zs=43&id=6959886109316"
+      "https://vd301.okcdn.ru/?expires=1791049727916&srcIp=172.215.209.241&pr=10&srcAg=CHROME&ms=185.180.203.51&type=3&sig=2UfoWdxcres&ct=0&urls=176.112.172.66&clientType=0&zs=43&id=6959886109316"
     ],
-    "URL_DIRECTA": "https://vd301.okcdn.ru/?expires=1791029859542&srcIp=172.178.119.21&pr=10&srcAg=CHROME&ms=185.180.203.51&type=3&sig=dpxvjfIKji0&ct=0&urls=176.112.172.66&clientType=0&zs=43&id=6959886109316"
+    "URL_DIRECTA": "https://vd301.okcdn.ru/?expires=1791049727916&srcIp=172.215.209.241&pr=10&srcAg=CHROME&ms=185.180.203.51&type=3&sig=2UfoWdxcres&ct=0&urls=176.112.172.66&clientType=0&zs=43&id=6959886109316"
   },
   {
     "CATEGORIA": "GENERAL",
@@ -1381,9 +1377,9 @@
     ],
     "METODO": "MANUAL",
     "URLS_DIRECTAS": [
-      "https://vd355.okcdn.ru/?expires=1791029862340&srcIp=172.178.119.21&pr=10&srcAg=CHROME&ms=178.237.29.133&type=5&sig=OsLma-avXiw&ct=0&urls=185.180.203.34&clientType=0&zs=43&id=6925821348484"
+      "https://vd355.okcdn.ru/?expires=1791049730842&srcIp=172.215.209.241&pr=10&srcAg=CHROME&ms=178.237.29.133&type=5&sig=q418vM1UWFI&ct=0&urls=176.112.172.2&clientType=0&zs=43&id=6925821348484"
     ],
-    "URL_DIRECTA": "https://vd355.okcdn.ru/?expires=1791029862340&srcIp=172.178.119.21&pr=10&srcAg=CHROME&ms=178.237.29.133&type=5&sig=OsLma-avXiw&ct=0&urls=185.180.203.34&clientType=0&zs=43&id=6925821348484"
+    "URL_DIRECTA": "https://vd355.okcdn.ru/?expires=1791049730842&srcIp=172.215.209.241&pr=10&srcAg=CHROME&ms=178.237.29.133&type=5&sig=q418vM1UWFI&ct=0&urls=176.112.172.2&clientType=0&zs=43&id=6925821348484"
   },
   {
     "CATEGORIA": "GENERAL",
@@ -1407,9 +1403,9 @@
     ],
     "METODO": "MANUAL",
     "URLS_DIRECTAS": [
-      "https://vd674.okcdn.ru/?expires=1791029864942&srcIp=172.178.119.21&pr=10&srcAg=CHROME&ms=178.237.23.25&type=0&sig=cgt9_DBc0iE&ct=0&urls=185.226.55.107&clientType=0&zs=43&id=6909317614212"
+      "https://vd674.okcdn.ru/?expires=1791049734764&srcIp=172.215.209.241&pr=10&srcAg=CHROME&ms=178.237.23.25&type=0&sig=XrvOHzthLsw&ct=0&urls=185.226.55.107&clientType=0&zs=43&id=6909317614212"
     ],
-    "URL_DIRECTA": "https://vd674.okcdn.ru/?expires=1791029864942&srcIp=172.178.119.21&pr=10&srcAg=CHROME&ms=178.237.23.25&type=0&sig=cgt9_DBc0iE&ct=0&urls=185.226.55.107&clientType=0&zs=43&id=6909317614212"
+    "URL_DIRECTA": "https://vd674.okcdn.ru/?expires=1791049734764&srcIp=172.215.209.241&pr=10&srcAg=CHROME&ms=178.237.23.25&type=0&sig=XrvOHzthLsw&ct=0&urls=185.226.55.107&clientType=0&zs=43&id=6909317614212"
   },
   {
     "CATEGORIA": "GENERAL",
@@ -1433,9 +1429,9 @@
     ],
     "METODO": "MANUAL",
     "URLS_DIRECTAS": [
-      "https://vd544.okcdn.ru/?expires=1791029867499&srcIp=172.178.119.21&pr=10&srcAg=CHROME&ms=185.226.55.54&type=0&sig=W42BFGkDY-s&ct=0&urls=95.163.35.40&clientType=0&zs=43&id=6901139901060"
+      "https://vd544.okcdn.ru/?expires=1791049738032&srcIp=172.215.209.241&pr=10&srcAg=CHROME&ms=185.226.55.54&type=0&sig=w4eyw60muM4&ct=0&urls=95.163.35.40&clientType=0&zs=43&id=6901139901060"
     ],
-    "URL_DIRECTA": "https://vd544.okcdn.ru/?expires=1791029867499&srcIp=172.178.119.21&pr=10&srcAg=CHROME&ms=185.226.55.54&type=0&sig=W42BFGkDY-s&ct=0&urls=95.163.35.40&clientType=0&zs=43&id=6901139901060"
+    "URL_DIRECTA": "https://vd544.okcdn.ru/?expires=1791049738032&srcIp=172.215.209.241&pr=10&srcAg=CHROME&ms=185.226.55.54&type=0&sig=w4eyw60muM4&ct=0&urls=95.163.35.40&clientType=0&zs=43&id=6901139901060"
   },
   {
     "CATEGORIA": "GENERAL",
@@ -1459,9 +1455,9 @@
     ],
     "METODO": "MANUAL",
     "URLS_DIRECTAS": [
-      "https://vd618.okcdn.ru/?expires=1791029870517&srcIp=172.178.119.21&pr=10&srcAg=CHROME&ms=185.180.203.17&type=3&sig=Y0KTmuMDM8o&ct=0&urls=185.226.55.28&clientType=0&zs=43&id=6876616329860"
+      "https://vd618.okcdn.ru/?expires=1791049741427&srcIp=172.215.209.241&pr=10&srcAg=CHROME&ms=185.180.203.17&type=3&sig=xy5H3pGlEiw&ct=0&urls=185.226.55.28&clientType=0&zs=43&id=6876616329860"
     ],
-    "URL_DIRECTA": "https://vd618.okcdn.ru/?expires=1791029870517&srcIp=172.178.119.21&pr=10&srcAg=CHROME&ms=185.180.203.17&type=3&sig=Y0KTmuMDM8o&ct=0&urls=185.226.55.28&clientType=0&zs=43&id=6876616329860"
+    "URL_DIRECTA": "https://vd618.okcdn.ru/?expires=1791049741427&srcIp=172.215.209.241&pr=10&srcAg=CHROME&ms=185.180.203.17&type=3&sig=xy5H3pGlEiw&ct=0&urls=185.226.55.28&clientType=0&zs=43&id=6876616329860"
   },
   {
     "CATEGORIA": "GENERAL",
@@ -1485,9 +1481,9 @@
     ],
     "METODO": "MANUAL",
     "URLS_DIRECTAS": [
-      "https://vd346.okcdn.ru/?expires=1791029873502&srcIp=172.178.119.21&pr=10&srcAg=CHROME&ms=185.180.203.99&type=3&sig=fBNLwEJaPvA&ct=0&urls=95.163.35.29&clientType=0&zs=43&id=6876555971204"
+      "https://vd346.okcdn.ru/?expires=1791049744501&srcIp=172.215.209.241&pr=10&srcAg=CHROME&ms=185.180.203.99&type=3&sig=AvTEfT1xIPY&ct=0&urls=95.163.35.29&clientType=0&zs=43&id=6876555971204"
     ],
-    "URL_DIRECTA": "https://vd346.okcdn.ru/?expires=1791029873502&srcIp=172.178.119.21&pr=10&srcAg=CHROME&ms=185.180.203.99&type=3&sig=fBNLwEJaPvA&ct=0&urls=95.163.35.29&clientType=0&zs=43&id=6876555971204"
+    "URL_DIRECTA": "https://vd346.okcdn.ru/?expires=1791049744501&srcIp=172.215.209.241&pr=10&srcAg=CHROME&ms=185.180.203.99&type=3&sig=AvTEfT1xIPY&ct=0&urls=95.163.35.29&clientType=0&zs=43&id=6876555971204"
   },
   {
     "CATEGORIA": "GENERAL",
@@ -1511,9 +1507,9 @@
     ],
     "METODO": "MANUAL",
     "URLS_DIRECTAS": [
-      "https://vd741.okcdn.ru/?expires=1791029876894&srcIp=172.178.119.21&pr=10&srcAg=CHROME&ms=95.163.35.18&type=3&sig=ujz6lCHygxo&ct=0&urls=185.226.55.44&clientType=0&zs=43&id=6837583940228"
+      "https://vd741.okcdn.ru/?expires=1791049747884&srcIp=172.215.209.241&pr=10&srcAg=CHROME&ms=95.163.35.18&type=3&sig=zd0FSLpUq9o&ct=0&urls=176.112.172.64&clientType=0&zs=43&id=6837583940228"
     ],
-    "URL_DIRECTA": "https://vd741.okcdn.ru/?expires=1791029876894&srcIp=172.178.119.21&pr=10&srcAg=CHROME&ms=95.163.35.18&type=3&sig=ujz6lCHygxo&ct=0&urls=185.226.55.44&clientType=0&zs=43&id=6837583940228"
+    "URL_DIRECTA": "https://vd741.okcdn.ru/?expires=1791049747884&srcIp=172.215.209.241&pr=10&srcAg=CHROME&ms=95.163.35.18&type=3&sig=zd0FSLpUq9o&ct=0&urls=176.112.172.64&clientType=0&zs=43&id=6837583940228"
   },
   {
     "CATEGORIA": "GENERAL",
@@ -1537,9 +1533,9 @@
     ],
     "METODO": "MANUAL",
     "URLS_DIRECTAS": [
-      "https://vd554.okcdn.ru/?expires=1791029879392&srcIp=172.178.119.21&pr=10&srcAg=CHROME&ms=185.226.55.64&type=2&sig=RkQOslNVL4c&ct=0&urls=95.163.35.98&clientType=0&zs=43&id=6836450822788"
+      "https://vd554.okcdn.ru/?expires=1791049750839&srcIp=172.215.209.241&pr=10&srcAg=CHROME&ms=185.226.55.64&type=2&sig=saRw9b3MJlE&ct=0&urls=95.163.35.98&clientType=0&zs=43&id=6836450822788"
     ],
-    "URL_DIRECTA": "https://vd554.okcdn.ru/?expires=1791029879392&srcIp=172.178.119.21&pr=10&srcAg=CHROME&ms=185.226.55.64&type=2&sig=RkQOslNVL4c&ct=0&urls=95.163.35.98&clientType=0&zs=43&id=6836450822788"
+    "URL_DIRECTA": "https://vd554.okcdn.ru/?expires=1791049750839&srcIp=172.215.209.241&pr=10&srcAg=CHROME&ms=185.226.55.64&type=2&sig=saRw9b3MJlE&ct=0&urls=95.163.35.98&clientType=0&zs=43&id=6836450822788"
   },
   {
     "CATEGORIA": "GENERAL",
@@ -1563,9 +1559,9 @@
     ],
     "METODO": "MANUAL",
     "URLS_DIRECTAS": [
-      "https://vd508.okcdn.ru/?expires=1791029881938&srcIp=172.178.119.21&pr=10&srcAg=CHROME&ms=185.226.55.18&type=1&sig=FvGV2sIpb18&ct=0&urls=185.180.203.44&clientType=0&zs=43&id=6824993098372"
+      "https://vd508.okcdn.ru/?expires=1791049754103&srcIp=172.215.209.241&pr=10&srcAg=CHROME&ms=185.226.55.18&type=1&sig=Wc-Dcy0VOak&ct=0&urls=178.237.23.30&clientType=0&zs=43&id=6824993098372"
     ],
-    "URL_DIRECTA": "https://vd508.okcdn.ru/?expires=1791029881938&srcIp=172.178.119.21&pr=10&srcAg=CHROME&ms=185.226.55.18&type=1&sig=FvGV2sIpb18&ct=0&urls=185.180.203.44&clientType=0&zs=43&id=6824993098372"
+    "URL_DIRECTA": "https://vd508.okcdn.ru/?expires=1791049754103&srcIp=172.215.209.241&pr=10&srcAg=CHROME&ms=185.226.55.18&type=1&sig=Wc-Dcy0VOak&ct=0&urls=178.237.23.30&clientType=0&zs=43&id=6824993098372"
   },
   {
     "CATEGORIA": "GENERAL",
@@ -1589,9 +1585,9 @@
     ],
     "METODO": "MANUAL",
     "URLS_DIRECTAS": [
-      "https://vd570.okcdn.ru/?expires=1791029884422&srcIp=172.178.119.21&pr=10&srcAg=CHROME&ms=178.237.23.82&type=3&sig=Vr8iEbvtXKw&ct=0&urls=185.180.203.24&clientType=0&zs=43&id=1001232337551"
+      "https://vd570.okcdn.ru/?expires=1791049757729&srcIp=172.215.209.241&pr=10&srcAg=CHROME&ms=178.237.23.82&type=3&sig=aE9jSUIU53U&ct=0&urls=185.180.203.24&clientType=0&zs=43&id=1001232337551"
     ],
-    "URL_DIRECTA": "https://vd570.okcdn.ru/?expires=1791029884422&srcIp=172.178.119.21&pr=10&srcAg=CHROME&ms=178.237.23.82&type=3&sig=Vr8iEbvtXKw&ct=0&urls=185.180.203.24&clientType=0&zs=43&id=1001232337551"
+    "URL_DIRECTA": "https://vd570.okcdn.ru/?expires=1791049757729&srcIp=172.215.209.241&pr=10&srcAg=CHROME&ms=178.237.23.82&type=3&sig=aE9jSUIU53U&ct=0&urls=185.180.203.24&clientType=0&zs=43&id=1001232337551"
   },
   {
     "CATEGORIA": "GENERAL",
@@ -1615,9 +1611,9 @@
     ],
     "METODO": "MANUAL",
     "URLS_DIRECTAS": [
-      "https://vd581.okcdn.ru/?expires=1791029887065&srcIp=172.178.119.21&pr=10&srcAg=CHROME&ms=185.226.55.102&type=1&sig=H5deI99ztAk&ct=0&urls=185.180.203.83&clientType=0&zs=43&id=6820383165060"
+      "https://vd581.okcdn.ru/?expires=1791049761138&srcIp=172.215.209.241&pr=10&srcAg=CHROME&ms=185.226.55.102&type=1&sig=t5Ru_4hiMKc&ct=0&urls=176.112.172.15&clientType=0&zs=43&id=6820383165060"
     ],
-    "URL_DIRECTA": "https://vd581.okcdn.ru/?expires=1791029887065&srcIp=172.178.119.21&pr=10&srcAg=CHROME&ms=185.226.55.102&type=1&sig=H5deI99ztAk&ct=0&urls=185.180.203.83&clientType=0&zs=43&id=6820383165060"
+    "URL_DIRECTA": "https://vd581.okcdn.ru/?expires=1791049761138&srcIp=172.215.209.241&pr=10&srcAg=CHROME&ms=185.226.55.102&type=1&sig=t5Ru_4hiMKc&ct=0&urls=176.112.172.15&clientType=0&zs=43&id=6820383165060"
   },
   {
     "CATEGORIA": "GENERAL",
@@ -1641,9 +1637,9 @@
     ],
     "METODO": "MANUAL",
     "URLS_DIRECTAS": [
-      "https://vd469.okcdn.ru/?expires=1791029889755&srcIp=172.178.119.21&pr=10&srcAg=CHROME&ms=176.112.172.104&type=3&sig=GTtIEvsYHbM&ct=0&urls=185.180.203.50&clientType=0&zs=43&id=6808209525380"
+      "https://vd303.okcdn.ru/?expires=1791049764624&srcIp=172.215.209.241&pr=10&srcAg=CHROME&ms=185.180.203.50&type=3&sig=B0s2I4lD-CI&ct=0&urls=176.112.172.104&clientType=0&zs=43&id=6808209525380"
     ],
-    "URL_DIRECTA": "https://vd469.okcdn.ru/?expires=1791029889755&srcIp=172.178.119.21&pr=10&srcAg=CHROME&ms=176.112.172.104&type=3&sig=GTtIEvsYHbM&ct=0&urls=185.180.203.50&clientType=0&zs=43&id=6808209525380"
+    "URL_DIRECTA": "https://vd303.okcdn.ru/?expires=1791049764624&srcIp=172.215.209.241&pr=10&srcAg=CHROME&ms=185.180.203.50&type=3&sig=B0s2I4lD-CI&ct=0&urls=176.112.172.104&clientType=0&zs=43&id=6808209525380"
   },
   {
     "CATEGORIA": "GENERAL",
@@ -1667,9 +1663,9 @@
     ],
     "METODO": "MANUAL",
     "URLS_DIRECTAS": [
-      "https://vd731.okcdn.ru/?expires=1791029892450&srcIp=172.178.119.21&pr=10&srcAg=CHROME&ms=95.163.35.8&type=1&sig=rqBc6OLyhW0&ct=0&urls=185.226.55.62&clientType=0&zs=43&id=6808016521860"
+      "https://vd681.okcdn.ru/?expires=1791049769037&srcIp=172.215.209.241&pr=10&srcAg=CHROME&ms=178.237.23.32&type=1&sig=9YHfZl4kciM&ct=0&urls=95.163.35.8&clientType=0&zs=43&id=6808016521860"
     ],
-    "URL_DIRECTA": "https://vd731.okcdn.ru/?expires=1791029892450&srcIp=172.178.119.21&pr=10&srcAg=CHROME&ms=95.163.35.8&type=1&sig=rqBc6OLyhW0&ct=0&urls=185.226.55.62&clientType=0&zs=43&id=6808016521860"
+    "URL_DIRECTA": "https://vd681.okcdn.ru/?expires=1791049769037&srcIp=172.215.209.241&pr=10&srcAg=CHROME&ms=178.237.23.32&type=1&sig=9YHfZl4kciM&ct=0&urls=95.163.35.8&clientType=0&zs=43&id=6808016521860"
   },
   {
     "CATEGORIA": "GENERAL",
@@ -1693,9 +1689,9 @@
     ],
     "METODO": "MANUAL",
     "URLS_DIRECTAS": [
-      "https://vd484.okcdn.ru/?expires=1791029895195&srcIp=172.178.119.21&pr=10&srcAg=CHROME&ms=95.163.35.110&type=2&sig=D1-DrPj1zfs&ct=0&urls=185.180.203.44&clientType=0&zs=43&id=6803715197572"
+      "https://vd484.okcdn.ru/?expires=1791049772415&srcIp=172.215.209.241&pr=10&srcAg=CHROME&ms=95.163.35.110&type=2&sig=IeZfUqMm0tk&ct=0&urls=185.180.203.44&clientType=0&zs=43&id=6803715197572"
     ],
-    "URL_DIRECTA": "https://vd484.okcdn.ru/?expires=1791029895195&srcIp=172.178.119.21&pr=10&srcAg=CHROME&ms=95.163.35.110&type=2&sig=D1-DrPj1zfs&ct=0&urls=185.180.203.44&clientType=0&zs=43&id=6803715197572"
+    "URL_DIRECTA": "https://vd484.okcdn.ru/?expires=1791049772415&srcIp=172.215.209.241&pr=10&srcAg=CHROME&ms=95.163.35.110&type=2&sig=IeZfUqMm0tk&ct=0&urls=185.180.203.44&clientType=0&zs=43&id=6803715197572"
   },
   {
     "CATEGORIA": "GENERAL",
@@ -1719,9 +1715,9 @@
     ],
     "METODO": "MANUAL",
     "URLS_DIRECTAS": [
-      "https://vd714.okcdn.ru/?expires=1791029898115&srcIp=172.178.119.21&pr=10&srcAg=CHROME&ms=176.112.172.30&type=2&sig=fBaXcQ5eElw&ct=0&urls=178.237.23.19&clientType=0&zs=43&id=1431474997918"
+      "https://vd714.okcdn.ru/?expires=1791049775789&srcIp=172.215.209.241&pr=10&srcAg=CHROME&ms=176.112.172.30&type=2&sig=g08klayzbd4&ct=0&urls=178.237.23.19&clientType=0&zs=43&id=1431474997918"
     ],
-    "URL_DIRECTA": "https://vd714.okcdn.ru/?expires=1791029898115&srcIp=172.178.119.21&pr=10&srcAg=CHROME&ms=176.112.172.30&type=2&sig=fBaXcQ5eElw&ct=0&urls=178.237.23.19&clientType=0&zs=43&id=1431474997918"
+    "URL_DIRECTA": "https://vd714.okcdn.ru/?expires=1791049775789&srcIp=172.215.209.241&pr=10&srcAg=CHROME&ms=176.112.172.30&type=2&sig=g08klayzbd4&ct=0&urls=178.237.23.19&clientType=0&zs=43&id=1431474997918"
   },
   {
     "CATEGORIA": "GENERAL",
@@ -1745,9 +1741,9 @@
     ],
     "METODO": "MANUAL",
     "URLS_DIRECTAS": [
-      "https://vd435.okcdn.ru/?expires=1791029900823&srcIp=172.178.119.21&pr=10&srcAg=CHROME&ms=178.237.23.55&type=3&sig=BBEpzN_nlgw&ct=0&urls=176.112.172.28&clientType=0&zs=43&id=6780683487876"
+      "https://vd435.okcdn.ru/?expires=1791049780682&srcIp=172.215.209.241&pr=10&srcAg=CHROME&ms=178.237.23.55&type=3&sig=oI36Tess_-0&ct=0&urls=176.112.172.28&clientType=0&zs=43&id=6780683487876"
     ],
-    "URL_DIRECTA": "https://vd435.okcdn.ru/?expires=1791029900823&srcIp=172.178.119.21&pr=10&srcAg=CHROME&ms=178.237.23.55&type=3&sig=BBEpzN_nlgw&ct=0&urls=176.112.172.28&clientType=0&zs=43&id=6780683487876"
+    "URL_DIRECTA": "https://vd435.okcdn.ru/?expires=1791049780682&srcIp=172.215.209.241&pr=10&srcAg=CHROME&ms=178.237.23.55&type=3&sig=oI36Tess_-0&ct=0&urls=176.112.172.28&clientType=0&zs=43&id=6780683487876"
   },
   {
     "CATEGORIA": "GENERAL",
@@ -1771,9 +1767,9 @@
     ],
     "METODO": "MANUAL",
     "URLS_DIRECTAS": [
-      "https://vd516.okcdn.ru/?expires=1791029903141&srcIp=172.178.119.21&pr=10&srcAg=CHROME&ms=185.226.55.26&type=3&sig=ZCUL0dp1odM&ct=0&urls=185.180.203.43&clientType=0&zs=43&id=6779375061636"
+      "https://vd516.okcdn.ru/?expires=1791049784273&srcIp=172.215.209.241&pr=10&srcAg=CHROME&ms=185.226.55.26&type=3&sig=VBd3eohdORY&ct=0&urls=185.180.203.43&clientType=0&zs=43&id=6779375061636"
     ],
-    "URL_DIRECTA": "https://vd516.okcdn.ru/?expires=1791029903141&srcIp=172.178.119.21&pr=10&srcAg=CHROME&ms=185.226.55.26&type=3&sig=ZCUL0dp1odM&ct=0&urls=185.180.203.43&clientType=0&zs=43&id=6779375061636"
+    "URL_DIRECTA": "https://vd516.okcdn.ru/?expires=1791049784273&srcIp=172.215.209.241&pr=10&srcAg=CHROME&ms=185.226.55.26&type=3&sig=VBd3eohdORY&ct=0&urls=185.180.203.43&clientType=0&zs=43&id=6779375061636"
   },
   {
     "CATEGORIA": "GENERAL",
@@ -1797,9 +1793,9 @@
     ],
     "METODO": "MANUAL",
     "URLS_DIRECTAS": [
-      "https://vd747.okcdn.ru/?expires=1791029905834&srcIp=172.178.119.21&pr=10&srcAg=CHROME&ms=95.163.35.24&type=3&sig=6lipK2LESYQ&ct=0&urls=176.112.172.27&clientType=0&zs=43&id=6771775965828"
+      "https://vd747.okcdn.ru/?expires=1791049787750&srcIp=172.215.209.241&pr=10&srcAg=CHROME&ms=95.163.35.24&type=3&sig=oh1k0IJ7Nv4&ct=0&urls=176.112.172.27&clientType=0&zs=43&id=6771775965828"
     ],
-    "URL_DIRECTA": "https://vd747.okcdn.ru/?expires=1791029905834&srcIp=172.178.119.21&pr=10&srcAg=CHROME&ms=95.163.35.24&type=3&sig=6lipK2LESYQ&ct=0&urls=176.112.172.27&clientType=0&zs=43&id=6771775965828"
+    "URL_DIRECTA": "https://vd747.okcdn.ru/?expires=1791049787750&srcIp=172.215.209.241&pr=10&srcAg=CHROME&ms=95.163.35.24&type=3&sig=oh1k0IJ7Nv4&ct=0&urls=176.112.172.27&clientType=0&zs=43&id=6771775965828"
   },
   {
     "CATEGORIA": "GENERAL",
@@ -1823,9 +1819,9 @@
     ],
     "METODO": "MANUAL",
     "URLS_DIRECTAS": [
-      "https://vd697.okcdn.ru/?expires=1791029909007&srcIp=172.178.119.21&pr=10&srcAg=CHROME&ms=176.112.172.13&type=3&sig=VbvHFTxKERg&ct=0&urls=185.180.203.22&clientType=0&zs=43&id=6776787569284"
+      "https://vd697.okcdn.ru/?expires=1791049790958&srcIp=172.215.209.241&pr=10&srcAg=CHROME&ms=176.112.172.13&type=3&sig=zATBlL_ZyvE&ct=0&urls=185.180.203.22&clientType=0&zs=43&id=6776787569284"
     ],
-    "URL_DIRECTA": "https://vd697.okcdn.ru/?expires=1791029909007&srcIp=172.178.119.21&pr=10&srcAg=CHROME&ms=176.112.172.13&type=3&sig=VbvHFTxKERg&ct=0&urls=185.180.203.22&clientType=0&zs=43&id=6776787569284"
+    "URL_DIRECTA": "https://vd697.okcdn.ru/?expires=1791049790958&srcIp=172.215.209.241&pr=10&srcAg=CHROME&ms=176.112.172.13&type=3&sig=zATBlL_ZyvE&ct=0&urls=185.180.203.22&clientType=0&zs=43&id=6776787569284"
   },
   {
     "CATEGORIA": "GENERAL",
@@ -1849,9 +1845,9 @@
     ],
     "METODO": "MANUAL",
     "URLS_DIRECTAS": [
-      "https://vd504.okcdn.ru/?expires=1791029914333&srcIp=172.178.119.21&pr=10&srcAg=CHROME&ms=185.226.55.14&type=2&sig=jSiE3HASBn0&ct=0&urls=185.180.203.49&clientType=0&zs=43&id=6764327406212"
+      "https://vd659.okcdn.ru/?expires=1791049797841&srcIp=172.215.209.241&pr=10&srcAg=CHROME&ms=178.237.23.10&type=2&sig=KMJf6G43mfo&ct=0&urls=185.226.55.14&clientType=0&zs=43&id=6764327406212"
     ],
-    "URL_DIRECTA": "https://vd504.okcdn.ru/?expires=1791029914333&srcIp=172.178.119.21&pr=10&srcAg=CHROME&ms=185.226.55.14&type=2&sig=jSiE3HASBn0&ct=0&urls=185.180.203.49&clientType=0&zs=43&id=6764327406212"
+    "URL_DIRECTA": "https://vd659.okcdn.ru/?expires=1791049797841&srcIp=172.215.209.241&pr=10&srcAg=CHROME&ms=178.237.23.10&type=2&sig=KMJf6G43mfo&ct=0&urls=185.226.55.14&clientType=0&zs=43&id=6764327406212"
   },
   {
     "CATEGORIA": "GENERAL",
@@ -1875,9 +1871,9 @@
     ],
     "METODO": "MANUAL",
     "URLS_DIRECTAS": [
-      "https://vd452.okcdn.ru/?expires=1791029917299&srcIp=172.178.119.21&pr=10&srcAg=CHROME&ms=185.180.203.105&type=3&sig=4IEk77ALCeA&ct=0&urls=178.237.23.17&clientType=0&zs=43&id=6764279958148"
+      "https://vd452.okcdn.ru/?expires=1791049801546&srcIp=172.215.209.241&pr=10&srcAg=CHROME&ms=185.180.203.105&type=3&sig=kQAmLaIkPVI&ct=0&urls=178.237.23.17&clientType=0&zs=43&id=6764279958148"
     ],
-    "URL_DIRECTA": "https://vd452.okcdn.ru/?expires=1791029917299&srcIp=172.178.119.21&pr=10&srcAg=CHROME&ms=185.180.203.105&type=3&sig=4IEk77ALCeA&ct=0&urls=178.237.23.17&clientType=0&zs=43&id=6764279958148"
+    "URL_DIRECTA": "https://vd452.okcdn.ru/?expires=1791049801546&srcIp=172.215.209.241&pr=10&srcAg=CHROME&ms=185.180.203.105&type=3&sig=kQAmLaIkPVI&ct=0&urls=178.237.23.17&clientType=0&zs=43&id=6764279958148"
   },
   {
     "CATEGORIA": "GENERAL",
@@ -1901,9 +1897,9 @@
     ],
     "METODO": "MANUAL",
     "URLS_DIRECTAS": [
-      "https://vd604.okcdn.ru/?expires=1791029919880&srcIp=172.178.119.21&pr=10&srcAg=CHROME&ms=95.163.35.127&type=5&sig=rQwvK0GBa4I&ct=0&urls=185.180.203.38&clientType=0&zs=43&id=6732507712132"
+      "https://vd604.okcdn.ru/?expires=1791049805248&srcIp=172.215.209.241&pr=10&srcAg=CHROME&ms=95.163.35.127&type=5&sig=o5S7fEu5-YM&ct=0&urls=185.180.203.38&clientType=0&zs=43&id=6732507712132"
     ],
-    "URL_DIRECTA": "https://vd604.okcdn.ru/?expires=1791029919880&srcIp=172.178.119.21&pr=10&srcAg=CHROME&ms=95.163.35.127&type=5&sig=rQwvK0GBa4I&ct=0&urls=185.180.203.38&clientType=0&zs=43&id=6732507712132"
+    "URL_DIRECTA": "https://vd604.okcdn.ru/?expires=1791049805248&srcIp=172.215.209.241&pr=10&srcAg=CHROME&ms=95.163.35.127&type=5&sig=o5S7fEu5-YM&ct=0&urls=185.180.203.38&clientType=0&zs=43&id=6732507712132"
   },
   {
     "CATEGORIA": "GENERAL",
@@ -1927,9 +1923,9 @@
     ],
     "METODO": "MANUAL",
     "URLS_DIRECTAS": [
-      "https://vd462.okcdn.ru/?expires=1791029925475&srcIp=172.178.119.21&pr=10&srcAg=CHROME&ms=176.112.172.97&type=5&sig=3A1G_Pu68xQ&ct=0&urls=95.163.35.125&clientType=0&zs=43&id=6705995451012"
+      "https://vd462.okcdn.ru/?expires=1791049812739&srcIp=172.215.209.241&pr=10&srcAg=CHROME&ms=176.112.172.97&type=5&sig=F9ju_Im9_W8&ct=0&urls=95.163.35.125&clientType=0&zs=43&id=6705995451012"
     ],
-    "URL_DIRECTA": "https://vd462.okcdn.ru/?expires=1791029925475&srcIp=172.178.119.21&pr=10&srcAg=CHROME&ms=176.112.172.97&type=5&sig=3A1G_Pu68xQ&ct=0&urls=95.163.35.125&clientType=0&zs=43&id=6705995451012"
+    "URL_DIRECTA": "https://vd462.okcdn.ru/?expires=1791049812739&srcIp=172.215.209.241&pr=10&srcAg=CHROME&ms=176.112.172.97&type=5&sig=F9ju_Im9_W8&ct=0&urls=95.163.35.125&clientType=0&zs=43&id=6705995451012"
   },
   {
     "CATEGORIA": "GENERAL",
@@ -1953,9 +1949,9 @@
     ],
     "METODO": "MANUAL",
     "URLS_DIRECTAS": [
-      "https://vd610.okcdn.ru/?expires=1791029927985&srcIp=172.178.119.21&pr=10&srcAg=CHROME&ms=95.163.35.109&type=3&sig=Qgy8_8n-lHk&ct=0&urls=185.226.55.44&clientType=0&zs=43&id=6704731523716"
+      "https://vd610.okcdn.ru/?expires=1791049816058&srcIp=172.215.209.241&pr=10&srcAg=CHROME&ms=95.163.35.109&type=3&sig=GVl3F63yE8g&ct=0&urls=185.226.55.44&clientType=0&zs=43&id=6704731523716"
     ],
-    "URL_DIRECTA": "https://vd610.okcdn.ru/?expires=1791029927985&srcIp=172.178.119.21&pr=10&srcAg=CHROME&ms=95.163.35.109&type=3&sig=Qgy8_8n-lHk&ct=0&urls=185.226.55.44&clientType=0&zs=43&id=6704731523716"
+    "URL_DIRECTA": "https://vd610.okcdn.ru/?expires=1791049816058&srcIp=172.215.209.241&pr=10&srcAg=CHROME&ms=95.163.35.109&type=3&sig=GVl3F63yE8g&ct=0&urls=185.226.55.44&clientType=0&zs=43&id=6704731523716"
   },
   {
     "CATEGORIA": "GENERAL",
@@ -1979,9 +1975,9 @@
     ],
     "METODO": "MANUAL",
     "URLS_DIRECTAS": [
-      "https://vd603.okcdn.ru/?expires=1791029931116&srcIp=172.178.119.21&pr=10&srcAg=CHROME&ms=185.226.55.97&type=5&sig=7DMPCHP9ceg&ct=0&urls=176.112.172.1&clientType=0&zs=43&id=6697672968836"
+      "https://vd603.okcdn.ru/?expires=1791049819983&srcIp=172.215.209.241&pr=10&srcAg=CHROME&ms=185.226.55.97&type=5&sig=6nyIKZCtukE&ct=0&urls=176.112.172.1&clientType=0&zs=43&id=6697672968836"
     ],
-    "URL_DIRECTA": "https://vd603.okcdn.ru/?expires=1791029931116&srcIp=172.178.119.21&pr=10&srcAg=CHROME&ms=185.226.55.97&type=5&sig=7DMPCHP9ceg&ct=0&urls=176.112.172.1&clientType=0&zs=43&id=6697672968836"
+    "URL_DIRECTA": "https://vd603.okcdn.ru/?expires=1791049819983&srcIp=172.215.209.241&pr=10&srcAg=CHROME&ms=185.226.55.97&type=5&sig=6nyIKZCtukE&ct=0&urls=176.112.172.1&clientType=0&zs=43&id=6697672968836"
   },
   {
     "CATEGORIA": "GENERAL",
@@ -2005,9 +2001,9 @@
     ],
     "METODO": "MANUAL",
     "URLS_DIRECTAS": [
-      "https://vd489.okcdn.ru/?expires=1791029933955&srcIp=172.178.119.21&pr=10&srcAg=CHROME&ms=95.163.35.115&type=3&sig=DfBJ_Ly0jf8&ct=0&urls=185.226.55.108&clientType=0&zs=43&id=6697289190020"
+      "https://vd489.okcdn.ru/?expires=1791049823858&srcIp=172.215.209.241&pr=10&srcAg=CHROME&ms=95.163.35.115&type=3&sig=9V8XsmXlXZw&ct=0&urls=185.226.55.108&clientType=0&zs=43&id=6697289190020"
     ],
-    "URL_DIRECTA": "https://vd489.okcdn.ru/?expires=1791029933955&srcIp=172.178.119.21&pr=10&srcAg=CHROME&ms=95.163.35.115&type=3&sig=DfBJ_Ly0jf8&ct=0&urls=185.226.55.108&clientType=0&zs=43&id=6697289190020"
+    "URL_DIRECTA": "https://vd489.okcdn.ru/?expires=1791049823858&srcIp=172.215.209.241&pr=10&srcAg=CHROME&ms=95.163.35.115&type=3&sig=9V8XsmXlXZw&ct=0&urls=185.226.55.108&clientType=0&zs=43&id=6697289190020"
   },
   {
     "CATEGORIA": "GENERAL",
@@ -2031,9 +2027,9 @@
     ],
     "METODO": "MANUAL",
     "URLS_DIRECTAS": [
-      "https://vd293.okcdn.ru/?expires=1791029936570&srcIp=172.178.119.21&pr=10&srcAg=CHROME&ms=176.112.172.68&type=3&sig=bJptsq7vOoY&ct=0&urls=185.180.203.44&clientType=0&zs=43&id=6694755175044"
+      "https://vd293.okcdn.ru/?expires=1791049826756&srcIp=172.215.209.241&pr=10&srcAg=CHROME&ms=176.112.172.68&type=3&sig=7S2vA_Mgt0E&ct=0&urls=185.180.203.44&clientType=0&zs=43&id=6694755175044"
     ],
-    "URL_DIRECTA": "https://vd293.okcdn.ru/?expires=1791029936570&srcIp=172.178.119.21&pr=10&srcAg=CHROME&ms=176.112.172.68&type=3&sig=bJptsq7vOoY&ct=0&urls=185.180.203.44&clientType=0&zs=43&id=6694755175044"
+    "URL_DIRECTA": "https://vd293.okcdn.ru/?expires=1791049826756&srcIp=172.215.209.241&pr=10&srcAg=CHROME&ms=176.112.172.68&type=3&sig=7S2vA_Mgt0E&ct=0&urls=185.180.203.44&clientType=0&zs=43&id=6694755175044"
   },
   {
     "CATEGORIA": "GENERAL",
@@ -2057,9 +2053,9 @@
     ],
     "METODO": "AUTOMATICO",
     "URLS_DIRECTAS": [
-      "https://s9.vimeos.net/hls2/02/00011/8z7kq19w5l4g_,n,h,.urlset/master.m3u8?t=0Mk24u5FHfgncAQgVqXpG2Tk2uLpJ-Ixzw-5qHyLqzM&s=1790943539&e=43200&v=375285169&i=0.0&sp=0&fr=8z7kq19w5l4g&r=e"
+      "https://s9.vimeos.net/hls2/02/00011/8z7kq19w5l4g_,n,h,.urlset/master.m3u8?t=TmifmGzWt3rumemLegbToBYV19S2JlCuZ0XHdKxK8_I&s=1790963429&e=43200&v=375371584&i=0.3&sp=0&fr=8z7kq19w5l4g&r=e"
     ],
-    "URL_DIRECTA": "https://s9.vimeos.net/hls2/02/00011/8z7kq19w5l4g_,n,h,.urlset/master.m3u8?t=0Mk24u5FHfgncAQgVqXpG2Tk2uLpJ-Ixzw-5qHyLqzM&s=1790943539&e=43200&v=375285169&i=0.0&sp=0&fr=8z7kq19w5l4g&r=e"
+    "URL_DIRECTA": "https://s9.vimeos.net/hls2/02/00011/8z7kq19w5l4g_,n,h,.urlset/master.m3u8?t=TmifmGzWt3rumemLegbToBYV19S2JlCuZ0XHdKxK8_I&s=1790963429&e=43200&v=375371584&i=0.3&sp=0&fr=8z7kq19w5l4g&r=e"
   },
   {
     "CATEGORIA": "GENERAL",
@@ -2083,9 +2079,9 @@
     ],
     "METODO": "MANUAL",
     "URLS_DIRECTAS": [
-      "https://videa.hu/static/w1080p/8.3144642.2553157.1.0.1.1?md5=BUnkCEex9yGcKiUtoZEcAw&expires=1790972378"
+      "https://videa.hu/static/w1080p/8.3144642.2553157.1.0.1.1?md5=q1lV2gwLEuX9d9RPhcRq5w&expires=1790992283"
     ],
-    "URL_DIRECTA": "https://videa.hu/static/w1080p/8.3144642.2553157.1.0.1.1?md5=BUnkCEex9yGcKiUtoZEcAw&expires=1790972378"
+    "URL_DIRECTA": "https://videa.hu/static/w1080p/8.3144642.2553157.1.0.1.1?md5=q1lV2gwLEuX9d9RPhcRq5w&expires=1790992283"
   },
   {
     "CATEGORIA": "GENERAL",
@@ -2109,9 +2105,9 @@
     ],
     "METODO": "MANUAL",
     "URLS_DIRECTAS": [
-      "https://videa.hu/static/240p/8.3124170.2553157.1.0.1.1?md5=HiG-K-4jewh-ca2f3-xSRg&expires=1790972384"
+      "https://videa.hu/static/240p/8.3124170.2553157.1.0.1.1?md5=FNmifyFQeyiQWDBmG7cA_Q&expires=1790992289"
     ],
-    "URL_DIRECTA": "https://videa.hu/static/240p/8.3124170.2553157.1.0.1.1?md5=HiG-K-4jewh-ca2f3-xSRg&expires=1790972384"
+    "URL_DIRECTA": "https://videa.hu/static/240p/8.3124170.2553157.1.0.1.1?md5=FNmifyFQeyiQWDBmG7cA_Q&expires=1790992289"
   },
   {
     "CATEGORIA": "GENERAL",
@@ -2135,9 +2131,9 @@
     ],
     "METODO": "MANUAL",
     "URLS_DIRECTAS": [
-      "https://videa.hu/static/240p/8.3124222.2553157.1.0.1.1?md5=Vq5B8jzb0JAPEEMWrQFt4A&expires=1790972387"
+      "https://videa.hu/static/240p/8.3124222.2553157.1.0.1.1?md5=vSYzMMAVRGoqwJM3O6MYgg&expires=1790992293"
     ],
-    "URL_DIRECTA": "https://videa.hu/static/240p/8.3124222.2553157.1.0.1.1?md5=Vq5B8jzb0JAPEEMWrQFt4A&expires=1790972387"
+    "URL_DIRECTA": "https://videa.hu/static/240p/8.3124222.2553157.1.0.1.1?md5=vSYzMMAVRGoqwJM3O6MYgg&expires=1790992293"
   },
   {
     "CATEGORIA": "GENERAL",
@@ -2185,8 +2181,8 @@
     ],
     "METODO": "MANUAL",
     "URLS_DIRECTAS": [
-      "https://videa.hu/static/360p/8.3115627.2553157.1.0.1.1?md5=L4zSiJ0BsD_QeJsmgVH_Qw&expires=1790972390"
+      "https://videa.hu/static/360p/8.3115627.2553157.1.0.1.1?md5=SEckf1K7QUyryju5Qo6PyQ&expires=1790992297"
     ],
-    "URL_DIRECTA": "https://videa.hu/static/360p/8.3115627.2553157.1.0.1.1?md5=L4zSiJ0BsD_QeJsmgVH_Qw&expires=1790972390"
+    "URL_DIRECTA": "https://videa.hu/static/360p/8.3115627.2553157.1.0.1.1?md5=SEckf1K7QUyryju5Qo6PyQ&expires=1790992297"
   }
 ]
