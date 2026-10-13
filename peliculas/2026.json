@@ -20,10 +20,8 @@
       "https://vimeos.net/embed-v7hdakih9470.html"
     ],
     "METODO": "AUTOMATICO",
-    "URLS_DIRECTAS": [
-      "https://s10.vimeos.net/hls2/03/00010/v7hdakih9470_,n,h,.urlset/master.m3u8?t=MLytwOtQGbpfSvNkKctvBuxatu6-RFtLL0CxBLLHiGA&s=1791899431&e=43200&v=394171415&i=0.0&sp=0&fr=v7hdakih9470&r=e"
-    ],
-    "URL_DIRECTA": "https://s10.vimeos.net/hls2/03/00010/v7hdakih9470_,n,h,.urlset/master.m3u8?t=MLytwOtQGbpfSvNkKctvBuxatu6-RFtLL0CxBLLHiGA&s=1791899431&e=43200&v=394171415&i=0.0&sp=0&fr=v7hdakih9470&r=e"
+    "URLS_DIRECTAS": [],
+    "URL_DIRECTA": ""
   },
   {
     "CATEGORIA": "2026",
@@ -47,9 +45,9 @@
     ],
     "METODO": "MANUAL",
     "URLS_DIRECTAS": [
-      "https://ok6-11.vkuser.net/?expires=1791985844807&srcIp=172.182.226.136&pr=10&srcAg=CHROME&ms=95.142.206.138&type=7&sig=dnqgswpDApc&ct=0&urls=176.112.172.31%3B95.163.35.119&clientType=0&zs=43&id=17537319635694&scl=5"
+      "https://ok6-11.vkuser.net/?expires=1792017245564&srcIp=68.154.116.119&pr=10&srcAg=CHROME&ms=95.142.206.138&type=7&sig=pW6K4HUTJs0&ct=0&urls=176.112.172.31%3B185.180.203.95&clientType=0&zs=43&id=17537319635694&scl=5"
     ],
-    "URL_DIRECTA": "https://ok6-11.vkuser.net/?expires=1791985844807&srcIp=172.182.226.136&pr=10&srcAg=CHROME&ms=95.142.206.138&type=7&sig=dnqgswpDApc&ct=0&urls=176.112.172.31%3B95.163.35.119&clientType=0&zs=43&id=17537319635694&scl=5"
+    "URL_DIRECTA": "https://ok6-11.vkuser.net/?expires=1792017245564&srcIp=68.154.116.119&pr=10&srcAg=CHROME&ms=95.142.206.138&type=7&sig=pW6K4HUTJs0&ct=0&urls=176.112.172.31%3B185.180.203.95&clientType=0&zs=43&id=17537319635694&scl=5"
   },
   {
     "CATEGORIA": "2026",
@@ -73,9 +71,9 @@
     ],
     "METODO": "MANUAL",
     "URLS_DIRECTAS": [
-      "https://ok6-12.vkuser.net/?expires=1791985848216&srcIp=172.182.226.136&pr=10&srcAg=CHROME&ms=95.142.206.139&type=7&sig=ZLapyBsmYDI&ct=0&urls=178.237.29.10%3B185.226.55.53&clientType=0&zs=43&id=17199278918382"
+      "https://ok6-12.vkuser.net/?expires=1792017247472&srcIp=68.154.116.119&pr=10&srcAg=CHROME&ms=95.142.206.139&type=7&sig=bdck5guo9V4&ct=0&urls=178.237.29.10%3B178.237.23.25&clientType=0&zs=43&id=17199278918382"
     ],
-    "URL_DIRECTA": "https://ok6-12.vkuser.net/?expires=1791985848216&srcIp=172.182.226.136&pr=10&srcAg=CHROME&ms=95.142.206.139&type=7&sig=ZLapyBsmYDI&ct=0&urls=178.237.29.10%3B185.226.55.53&clientType=0&zs=43&id=17199278918382"
+    "URL_DIRECTA": "https://ok6-12.vkuser.net/?expires=1792017247472&srcIp=68.154.116.119&pr=10&srcAg=CHROME&ms=95.142.206.139&type=7&sig=bdck5guo9V4&ct=0&urls=178.237.29.10%3B178.237.23.25&clientType=0&zs=43&id=17199278918382"
   },
   {
     "CATEGORIA": "2026",
@@ -99,9 +97,9 @@
     ],
     "METODO": "MANUAL",
     "URLS_DIRECTAS": [
-      "https://ok6-11.vkuser.net/?expires=1791985850810&srcIp=172.182.226.136&pr=10&srcAg=CHROME&ms=95.142.206.138&type=7&sig=572LBPMa13k&ct=0&urls=95.163.35.13%3B185.180.203.121&clientType=0&zs=43&id=17129777531630"
+      "https://ok6-11.vkuser.net/?expires=1792017249372&srcIp=68.154.116.119&pr=10&srcAg=CHROME&ms=95.142.206.138&type=7&sig=mjPEIIa0pNs&ct=0&urls=95.163.35.13%3B185.180.203.121&clientType=0&zs=43&id=17129777531630"
     ],
-    "URL_DIRECTA": "https://ok6-11.vkuser.net/?expires=1791985850810&srcIp=172.182.226.136&pr=10&srcAg=CHROME&ms=95.142.206.138&type=7&sig=572LBPMa13k&ct=0&urls=95.163.35.13%3B185.180.203.121&clientType=0&zs=43&id=17129777531630"
+    "URL_DIRECTA": "https://ok6-11.vkuser.net/?expires=1792017249372&srcIp=68.154.116.119&pr=10&srcAg=CHROME&ms=95.142.206.138&type=7&sig=mjPEIIa0pNs&ct=0&urls=95.163.35.13%3B185.180.203.121&clientType=0&zs=43&id=17129777531630"
   },
   {
     "CATEGORIA": "2026",
@@ -124,10 +122,8 @@
       "https://vimeos.net/embed-gbjdqxg2thzt.html"
     ],
     "METODO": "AUTOMATICO",
-    "URLS_DIRECTAS": [
-      "https://s8.vimeos.net/hls2/03/00007/gbjdqxg2thzt_,n,h,.urlset/master.m3u8?t=bfLCnB8QWgXcQnTd99GXpXw6OJBPDtBylhm4B56FLGA&s=1791899441&e=43200&v=394171520&i=0.3&sp=0&fr=gbjdqxg2thzt&r=e"
-    ],
-    "URL_DIRECTA": "https://s8.vimeos.net/hls2/03/00007/gbjdqxg2thzt_,n,h,.urlset/master.m3u8?t=bfLCnB8QWgXcQnTd99GXpXw6OJBPDtBylhm4B56FLGA&s=1791899441&e=43200&v=394171520&i=0.3&sp=0&fr=gbjdqxg2thzt&r=e"
+    "URLS_DIRECTAS": [],
+    "URL_DIRECTA": ""
   },
   {
     "CATEGORIA": "2026",
@@ -175,9 +171,9 @@
     ],
     "METODO": "MANUAL",
     "URLS_DIRECTAS": [
-      "https://ok6-11.vkuser.net/?expires=1791985852964&srcIp=172.182.226.136&pr=10&srcAg=CHROME&ms=95.142.206.138&type=7&sig=86TOxGZLPGo&ct=0&urls=178.237.23.7%3B176.112.172.9&clientType=0&zs=43&id=16861860268782"
+      "https://ok6-11.vkuser.net/?expires=1792017252093&srcIp=68.154.116.119&pr=10&srcAg=CHROME&ms=95.142.206.138&type=7&sig=SX0f1JEb4O4&ct=0&urls=178.237.23.7%3B95.163.35.22&clientType=0&zs=43&id=16861860268782"
     ],
-    "URL_DIRECTA": "https://ok6-11.vkuser.net/?expires=1791985852964&srcIp=172.182.226.136&pr=10&srcAg=CHROME&ms=95.142.206.138&type=7&sig=86TOxGZLPGo&ct=0&urls=178.237.23.7%3B176.112.172.9&clientType=0&zs=43&id=16861860268782"
+    "URL_DIRECTA": "https://ok6-11.vkuser.net/?expires=1792017252093&srcIp=68.154.116.119&pr=10&srcAg=CHROME&ms=95.142.206.138&type=7&sig=SX0f1JEb4O4&ct=0&urls=178.237.23.7%3B95.163.35.22&clientType=0&zs=43&id=16861860268782"
   },
   {
     "CATEGORIA": "2026",
@@ -201,9 +197,9 @@
     ],
     "METODO": "MANUAL",
     "URLS_DIRECTAS": [
-      "https://ok6-11.vkuser.net/?expires=1791985855514&srcIp=172.182.226.136&pr=10&srcAg=CHROME&ms=95.142.206.138&type=7&sig=HzCZzxNmw9o&ct=0&urls=178.237.23.30%3B95.163.35.124&clientType=0&zs=43&id=17348783639278&scl=5"
+      "https://ok6-11.vkuser.net/?expires=1792017254750&srcIp=68.154.116.119&pr=10&srcAg=CHROME&ms=95.142.206.138&type=7&sig=W-5F5cEKyOA&ct=0&urls=178.237.23.30%3B95.163.35.124&clientType=0&zs=43&id=17348783639278&scl=5"
     ],
-    "URL_DIRECTA": "https://ok6-11.vkuser.net/?expires=1791985855514&srcIp=172.182.226.136&pr=10&srcAg=CHROME&ms=95.142.206.138&type=7&sig=HzCZzxNmw9o&ct=0&urls=178.237.23.30%3B95.163.35.124&clientType=0&zs=43&id=17348783639278&scl=5"
+    "URL_DIRECTA": "https://ok6-11.vkuser.net/?expires=1792017254750&srcIp=68.154.116.119&pr=10&srcAg=CHROME&ms=95.142.206.138&type=7&sig=W-5F5cEKyOA&ct=0&urls=178.237.23.30%3B95.163.35.124&clientType=0&zs=43&id=17348783639278&scl=5"
   },
   {
     "CATEGORIA": "2026",
@@ -227,9 +223,9 @@
     ],
     "METODO": "MANUAL",
     "URLS_DIRECTAS": [
-      "https://vd700.okcdn.ru/?expires=1791985858315&srcIp=172.182.226.136&pr=10&srcAg=CHROME&ms=176.112.172.16&type=3&sig=vxv4qePVKnU&ct=0&urls=185.226.55.121&clientType=0&zs=43&id=9154289863255"
+      "https://vd375.okcdn.ru/?expires=1792017258055&srcIp=68.154.116.119&pr=10&srcAg=CHROME&ms=95.163.35.88&type=3&sig=VZaFZuBc99I&ct=0&urls=176.112.172.16&clientType=0&zs=43&id=9154289863255"
     ],
-    "URL_DIRECTA": "https://vd700.okcdn.ru/?expires=1791985858315&srcIp=172.182.226.136&pr=10&srcAg=CHROME&ms=176.112.172.16&type=3&sig=vxv4qePVKnU&ct=0&urls=185.226.55.121&clientType=0&zs=43&id=9154289863255"
+    "URL_DIRECTA": "https://vd375.okcdn.ru/?expires=1792017258055&srcIp=68.154.116.119&pr=10&srcAg=CHROME&ms=95.163.35.88&type=3&sig=VZaFZuBc99I&ct=0&urls=176.112.172.16&clientType=0&zs=43&id=9154289863255"
   },
   {
     "CATEGORIA": "2026",
@@ -277,9 +273,9 @@
     ],
     "METODO": "MANUAL",
     "URLS_DIRECTAS": [
-      "https://cdnst64.tokyvideo.com/videos/877/877187/mp4/f7599feb9f931e046bc9d969f638a1d29bb5795a94f790693df7ccba1bc09b88.mp4?secure=LswSYqc6LSTAWBgEucw9Hg%3D%3D%2C1791985862"
+      "https://cdnst64.tokyvideo.com/videos/877/877187/mp4/f7599feb9f931e046bc9d969f638a1d29bb5795a94f790693df7ccba1bc09b88.mp4?secure=lqnfvUF_Qs0dKDVNhnorbg%3D%3D%2C1792017261"
     ],
-    "URL_DIRECTA": "https://cdnst64.tokyvideo.com/videos/877/877187/mp4/f7599feb9f931e046bc9d969f638a1d29bb5795a94f790693df7ccba1bc09b88.mp4?secure=LswSYqc6LSTAWBgEucw9Hg%3D%3D%2C1791985862"
+    "URL_DIRECTA": "https://cdnst64.tokyvideo.com/videos/877/877187/mp4/f7599feb9f931e046bc9d969f638a1d29bb5795a94f790693df7ccba1bc09b88.mp4?secure=lqnfvUF_Qs0dKDVNhnorbg%3D%3D%2C1792017261"
   },
   {
     "CATEGORIA": "2026",
@@ -303,9 +299,9 @@
     ],
     "METODO": "MANUAL",
     "URLS_DIRECTAS": [
-      "https://cdnst95.tokyvideo.com/videos/824/824688/mp4/af7d04f587ef77190cf86e50ce585a430fff4cc5e3b64ebd68bcd98bbe103f4d.mp4?secure=kF-eR3a7xRlaTIZ7fKfikQ%3D%3D%2C1791985597"
+      "https://cdnst95.tokyvideo.com/videos/824/824688/mp4/af7d04f587ef77190cf86e50ce585a430fff4cc5e3b64ebd68bcd98bbe103f4d.mp4?secure=L9s9cFjncuU9GPkeNBgzww%3D%3D%2C1792015477"
     ],
-    "URL_DIRECTA": "https://cdnst95.tokyvideo.com/videos/824/824688/mp4/af7d04f587ef77190cf86e50ce585a430fff4cc5e3b64ebd68bcd98bbe103f4d.mp4?secure=kF-eR3a7xRlaTIZ7fKfikQ%3D%3D%2C1791985597"
+    "URL_DIRECTA": "https://cdnst95.tokyvideo.com/videos/824/824688/mp4/af7d04f587ef77190cf86e50ce585a430fff4cc5e3b64ebd68bcd98bbe103f4d.mp4?secure=L9s9cFjncuU9GPkeNBgzww%3D%3D%2C1792015477"
   },
   {
     "CATEGORIA": "2026",
