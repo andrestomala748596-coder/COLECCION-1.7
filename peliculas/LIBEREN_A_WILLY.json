@@ -40,8 +40,10 @@
     "URLS_OKRU": [
       "https://ok.ru/video/2867616287398"
     ],
-    "URL_DIRECTA": "",
-    "URLS_DIRECTAS": []
+    "URL_DIRECTA": "https://vd568.okcdn.ru/?expires=1795658576306&srcIp=4.151.199.227&pr=10&srcAg=CHROME&rjz=43&ms=178.237.23.80&type=3&sig=M_IGGGoxW_I&ct=0&urls=176.112.172.80&clientType=0&zs=43&id=15495937329908&rjr=8",
+    "URLS_DIRECTAS": [
+      "https://vd568.okcdn.ru/?expires=1795658576306&srcIp=4.151.199.227&pr=10&srcAg=CHROME&rjz=43&ms=178.237.23.80&type=3&sig=M_IGGGoxW_I&ct=0&urls=176.112.172.80&clientType=0&zs=43&id=15495937329908&rjr=8"
+    ]
   },
   {
     "CATEGORIA": "LIBEREN_A_WILLY",
@@ -62,10 +64,8 @@
     "URLS_OKRU": [
       "https://ok.ru/video/2868884998822"
     ],
-    "URL_DIRECTA": "https://vd678.okcdn.ru/?expires=1795626246842&srcIp=20.102.46.163&pr=10&srcAg=CHROME&rjz=43&ms=178.237.23.29&type=3&sig=KVLoXlntvfw&ct=0&urls=185.226.55.96&clientType=0&zs=43&id=20196088089144&rjr=8",
-    "URLS_DIRECTAS": [
-      "https://vd678.okcdn.ru/?expires=1795626246842&srcIp=20.102.46.163&pr=10&srcAg=CHROME&rjz=43&ms=178.237.23.29&type=3&sig=KVLoXlntvfw&ct=0&urls=185.226.55.96&clientType=0&zs=43&id=20196088089144&rjr=8"
-    ]
+    "URL_DIRECTA": "",
+    "URLS_DIRECTAS": []
   },
   {
     "CATEGORIA": "LIBEREN_A_WILLY",
@@ -86,9 +86,9 @@
     "URLS_OKRU": [
       "https://ok.ru/video/2869470825126"
     ],
-    "URL_DIRECTA": "https://vd355.okcdn.ru/?expires=1795626249565&srcIp=20.102.46.163&pr=10&srcAg=CHROME&rjz=43&ms=178.237.29.133&type=3&sig=7-5rkjAW8Qo&ct=0&urls=185.226.55.26&clientType=0&zs=43&id=20282148653624&rjr=8",
+    "URL_DIRECTA": "https://vd355.okcdn.ru/?expires=1795658580245&srcIp=4.151.199.227&pr=10&srcAg=CHROME&rjz=43&ms=178.237.29.133&type=3&sig=A4k4P5I9SVM&ct=0&urls=185.226.55.26&clientType=0&zs=43&id=20282148653624&rjr=8",
     "URLS_DIRECTAS": [
-      "https://vd355.okcdn.ru/?expires=1795626249565&srcIp=20.102.46.163&pr=10&srcAg=CHROME&rjz=43&ms=178.237.29.133&type=3&sig=7-5rkjAW8Qo&ct=0&urls=185.226.55.26&clientType=0&zs=43&id=20282148653624&rjr=8"
+      "https://vd355.okcdn.ru/?expires=1795658580245&srcIp=4.151.199.227&pr=10&srcAg=CHROME&rjz=43&ms=178.237.29.133&type=3&sig=A4k4P5I9SVM&ct=0&urls=185.226.55.26&clientType=0&zs=43&id=20282148653624&rjr=8"
     ]
   }
 ]
